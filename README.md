@@ -8,9 +8,9 @@
 
 |     극락     |    황하림     |   이상호      | 신윤섭|
 | :-----------------------------------: | :-----------------: | :----------------: |:----------------: |
-| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://cdn.discordapp.com/attachments/817224906386571274/998916361449377872/KakaoTalk_20211221_233616844_02.jpg" height = "250" width="250"/>|<img src="http://file3.instiz.net/data/file3/2022/04/20/5/b/d/5bdbfa753e1ec8e28e1c83e46f56f623.jpg" width = "250" height = "250"/>||
-|   [김동건](https://github.com/DongGeon0908) |   [황하림](https://avatars.githubusercontent.com/u/76032947?s=96&v=4) |   [이상호](https://avatars.githubusercontent.com/u/61265675?s=400&v=4)   |[신윤섭]()   |
-|열심히 극락코딩!!|할 거면 잘하자!!|고이기전에 탈출|자기소개|
+| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://cdn.discordapp.com/attachments/817224906386571274/998916361449377872/KakaoTalk_20211221_233616844_02.jpg" height = "250" width="250"/>|<img src="http://file3.instiz.net/data/file3/2022/04/20/5/b/d/5bdbfa753e1ec8e28e1c83e46f56f623.jpg" width = "250" height = "250"/>|<img src="https://user-images.githubusercontent.com/54024213/179750032-353f8088-1e25-449c-8509-87d92a8ac99e.jpg">|
+|   [김동건](https://github.com/DongGeon0908) |   [황하림](https://avatars.githubusercontent.com/u/76032947?s=96&v=4) |   [이상호](https://avatars.githubusercontent.com/u/61265675?s=400&v=4)   |[신윤섭](https://github.com/F-UMI)   |
+|열심히 극락코딩!!|할 거면 잘하자!!|고이기전에 탈출|하던 대로 열심히|
 
 <br>
   
