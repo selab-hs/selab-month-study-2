@@ -50,7 +50,7 @@
 
 |주제|황하림|이상호|신윤섭|
 |:---:|:---:|:---:|:---:|
-|osi 7계층||||
+|osi 7계층|||[🔵](https://www.notion.so/OSI-7-6054760308f2416eb331da0004cfb352)|
 |IOC, DI, AOP||||
 |접근제한자, 생성자, SOLID||||
 |Java Collection||||
