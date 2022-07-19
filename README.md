@@ -8,7 +8,7 @@
 
 |     극락     |    황하림     |   이상호      | 신윤섭|
 | :-----------------------------------: | :-----------------: | :----------------: |:----------------: |
-| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://avatars.githubusercontent.com/u/76032947?s=96&v=4" width="250"/>|||
+| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src=""C:\Users\user\Desktop\프사\KakaoTalk_20211221_233616844_02.jpg"" width="250"/>|||
 |   [김동건](https://github.com/DongGeon0908) |   [황하림](https://avatars.githubusercontent.com/u/76032947?s=96&v=4) |   [이상호]()   |[신윤섭]()   |
 |열심히 극락코딩!!|할 거면 잘하자!!|자기소개|자기소개|
 
