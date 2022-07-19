@@ -13,13 +13,7 @@
 |열심히 극락코딩!!|자기소개|자기소개|자기소개|
 
 <br>
-
-| SPACE          |    의정부핵꿀밤   | 제주도 푸른 밤    |
-| :-----------------------------------: | :-----------------: | :----------------: |
-|<img src="https://avatars.githubusercontent.com/u/107803870?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/79418036?v=4" width="250"/>|<img src="https://avatars.githubusercontent.com/u/50009240?v=4" width="250"/>|
-| [이우주](https://github.com/xxeblue)| [염지원](https://github.com/xx10222) |[이하늘](https://github.com/twoosky) |
-|간단 자기소개|👑퀸벨로퍼👑|반포 아크로리버파크 좀만 기다려|
-
+  
   </div>
   
 ---
