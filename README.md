@@ -8,7 +8,7 @@
 
 |     극락     |    황하림     |   이상호      | 신윤섭|
 | :-----------------------------------: | :-----------------: | :----------------: |:----------------: |
-| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://cdn.discordapp.com/attachments/817224906386571274/998916361449377872/KakaoTalk_20211221_233616844_02.jpg" height = "250" width="250"/>|<img src="http://file3.instiz.net/data/file3/2022/04/20/5/b/d/5bdbfa753e1ec8e28e1c83e46f56f623.jpg" width = "250" height = "250"/>|<img src="https://user-images.githubusercontent.com/54024213/179750032-353f8088-1e25-449c-8509-87d92a8ac99e.jpg">|
+| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://cdn.discordapp.com/attachments/817224906386571274/998916361449377872/KakaoTalk_20211221_233616844_02.jpg" height = "250" width="250"/>|<img src="http://file3.instiz.net/data/file3/2022/04/20/5/b/d/5bdbfa753e1ec8e28e1c83e46f56f623.jpg" width = "250" height = "250"/>|<img src="https://user-images.githubusercontent.com/54024213/180033873-15622ead-4d65-4c00-8b85-c2822256a72c.jpg">|
 |   [김동건](https://github.com/DongGeon0908) |   [황하림](https://avatars.githubusercontent.com/u/76032947?s=96&v=4) |   [이상호](https://avatars.githubusercontent.com/u/61265675?s=400&v=4)   |[신윤섭](https://github.com/F-UMI)   |
 |열심히 극락코딩!!|할 거면 잘하자!!|고이기전에 탈출|하던 대로 열심히|
 
@@ -54,7 +54,7 @@
 |:---:|:---:|:---:|:---:|
 |osi 7계층|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/OSI_7layerd.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/OSI-7layerd.md)|[🔵](https://www.notion.so/OSI-7-6054760308f2416eb331da0004cfb352)|
 |IOC, DI, AOP||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/IOC-DI-AOP.md)|[🔵](https://www.notion.so/IoC-DI-AOP-64c9e6298c49423680d7a0ef9e6af6ef)|
-|접근제한자, 생성자, SOLID||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/AM-Contructor-SOLID.md)||
+|접근제한자, 생성자, SOLID||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/AM-Contructor-SOLID.md)|[🔴](https://www.notion.so/Access-Modifier-Constructor-SOLID-b5725ffea98e4020ab4905c358f2be8a)|
 |Java Collection||||
 |알고리즘 - 정렬||||
 |bean vs component||||
