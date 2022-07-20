@@ -54,7 +54,7 @@
 |:---:|:---:|:---:|:---:|
 |osi 7계층|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/OSI_7layerd.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/OSI-7layerd.md)|[🔵](https://www.notion.so/OSI-7-6054760308f2416eb331da0004cfb352)|
 |IOC, DI, AOP||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/IOC-DI-AOP.md)||
-|접근제한자, 생성자, SOLID||||
+|접근제한자, 생성자, SOLID||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/AM-Contructor-SOLID.md)||
 |Java Collection||||
 |알고리즘 - 정렬||||
 |bean vs component||||
