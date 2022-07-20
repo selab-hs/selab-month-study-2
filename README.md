@@ -37,6 +37,8 @@
 |일자|황하림|이상호|신윤섭|
 |:---:|:---:|:---:|:---:|
 |2022-07-19|[HHR-DAY1](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_19%EC%9D%BC.md)|[LSH-DAY1](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-19.md)|[SYS-DAY1](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-19.md)|
+|2022-07-20||[LSH-DAY2](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-20.md)||
+
 
 
 <!--
