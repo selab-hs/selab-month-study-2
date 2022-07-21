@@ -57,7 +57,7 @@
 |IOC, DI, AOP|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/AOP_DI_IoC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/IOC-DI-AOP.md)|[🔵](https://www.notion.so/IoC-DI-AOP-64c9e6298c49423680d7a0ef9e6af6ef)|
 |접근제한자, 생성자, SOLID|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90_%EC%83%9D%EC%84%B1%EC%9E%90_SOLID.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/AM-Contructor-SOLID.md)|[🔴](https://www.notion.so/Access-Modifier-Constructor-SOLID-b5725ffea98e4020ab4905c358f2be8a)|
 |Java Collection|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/Java_Collection.md)|||
-|알고리즘 - 정렬|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%A0%95%EB%A0%AC.md)|||
+|알고리즘 - 정렬|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%A0%95%EB%A0%AC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Sorting_Algorithm.md)||
 |bean vs component||||
 |GIT ||||
 |DNS||||
