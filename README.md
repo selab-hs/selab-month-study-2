@@ -6,7 +6,7 @@
 
 <div align="center">
 
-|     극락     |    황하림     |   이상호      | 신윤섭|
+|     극락     |    황태구이 얌얌     |   리..리어카!      | 수원은 내 구역|
 | :-----------------------------------: | :-----------------: | :----------------: |:----------------: |
 | <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://cdn.discordapp.com/attachments/817224906386571274/998916361449377872/KakaoTalk_20211221_233616844_02.jpg" height = "250" width="250"/>|<img src="http://file3.instiz.net/data/file3/2022/04/20/5/b/d/5bdbfa753e1ec8e28e1c83e46f56f623.jpg" width = "250" height = "250"/>|<img src="https://user-images.githubusercontent.com/54024213/180033873-15622ead-4d65-4c00-8b85-c2822256a72c.jpg">|
 |   [김동건](https://github.com/DongGeon0908) |   [황하림](https://avatars.githubusercontent.com/u/76032947?s=96&v=4) |   [이상호](https://avatars.githubusercontent.com/u/61265675?s=400&v=4)   |[신윤섭](https://github.com/F-UMI)   |
