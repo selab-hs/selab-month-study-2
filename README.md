@@ -9,7 +9,7 @@
 |     극락     |    황태구이 얌얌     |   리..리어카!      | 수원은 내 구역|
 | :-----------------------------------: | :-----------------: | :----------------: |:----------------: |
 | <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://cdn.discordapp.com/attachments/817224906386571274/998916361449377872/KakaoTalk_20211221_233616844_02.jpg" height = "250" width="250"/>|<img src="http://file3.instiz.net/data/file3/2022/04/20/5/b/d/5bdbfa753e1ec8e28e1c83e46f56f623.jpg" width = "250" height = "250"/>|<img src="https://user-images.githubusercontent.com/54024213/180033873-15622ead-4d65-4c00-8b85-c2822256a72c.jpg">|
-|   [김동건](https://github.com/DongGeon0908) |   [황하림](https://avatars.githubusercontent.com/u/76032947?s=96&v=4) |   [이상호](https://avatars.githubusercontent.com/u/61265675?s=400&v=4)   |[신윤섭](https://github.com/F-UMI)   |
+|   [김동건](https://github.com/DongGeon0908) |   [황하림](https://github.com/HwangHarim) |   [이상호](https://avatars.githubusercontent.com/u/61265675?s=400&v=4)   |[신윤섭](https://github.com/F-UMI)   |
 |열심히 극락코딩!!|할 거면 잘하자!!|고이기전에 탈출|하던 대로 열심히|
 
 <br>
@@ -58,7 +58,7 @@
 |접근제한자, 생성자, SOLID|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90_%EC%83%9D%EC%84%B1%EC%9E%90_SOLID.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/AM-Contructor-SOLID.md)|[🔵](https://www.notion.so/Access-Modifier-Constructor-SOLID-b5725ffea98e4020ab4905c358f2be8a)|
 |Java Collection|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/Java_Collection.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java_Collection.md)|[🔵](https://www.notion.so/Collection-78ead0e6fcd0402a834f8f528c0a7d63)|
 |알고리즘 - 정렬|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%A0%95%EB%A0%AC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Sorting_Algorithm.md)|[🔵](https://www.notion.so/Sorting-3b2b2bd62df1473b9308c50201ca7913)|
-|bean vs component||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Been_VS_Component.md)|[🔵](https://www.notion.so/Bean-Component-6597956a7ed5474b8e92a0170b0bb882)|
+|bean vs component|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/bean_VS_component.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Been_VS_Component.md)|[🔵](https://www.notion.so/Bean-Component-6597956a7ed5474b8e92a0170b0bb882)|
 |GIT ||||
 |DNS||||
 |멀티프로세스와 멀티스레드 차이||||
