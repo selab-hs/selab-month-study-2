@@ -60,7 +60,7 @@
 |알고리즘 - 정렬|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%A0%95%EB%A0%AC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Sorting_Algorithm.md)|[🔵](https://www.notion.so/Sorting-3b2b2bd62df1473b9308c50201ca7913)|
 |bean vs component|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/bean_VS_component.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Been_VS_Component.md)|[🔵](https://www.notion.so/Bean-Component-6597956a7ed5474b8e92a0170b0bb882)|
 |GIT ||||
-|DNS||||
+|DNS|||[🔵](https://www.notion.so/DNS-Domain-Name-System-d073f997744d4e8ab628fc72a15154d1)|
 |멀티프로세스와 멀티스레드 차이||||
 |교착상태||||
 |세마포어와 뮤텍스||||
