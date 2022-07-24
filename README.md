@@ -62,7 +62,7 @@
 |bean vs component|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/bean_VS_component.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Been_VS_Component.md)|[🔵](https://www.notion.so/Bean-Component-6597956a7ed5474b8e92a0170b0bb882)|
 |GIT |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/GIT.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/GIT.md)|[🔵](https://github.com/F-UMI/TDL/blob/main/Topic/Git.md)|
 |DNS|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/DNS.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/DNS.md)|[🔵](https://www.notion.so/DNS-Domain-Name-System-d073f997744d4e8ab628fc72a15154d1)|
-|멀티프로세스와 멀티스레드 차이|||[🔵](https://www.notion.so/Multi-Process-VS-Multi-Thread-d44877346915498b9d89f089e42d2e19)|
+|멀티프로세스와 멀티스레드 차이||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Multi_Process_VS_Thread.md)|[🔵](https://www.notion.so/Multi-Process-VS-Multi-Thread-d44877346915498b9d89f089e42d2e19)|
 |교착상태||||
 |세마포어와 뮤텍스||||
 |REST API||||
