@@ -41,7 +41,7 @@
 |2022-07-21|[HHR-DAY3](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_21%EC%9D%BC.md)|[LSH-DAY3](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-21.md)|[SYS-DAY3](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-21.md)|
 |2022-07-22|[HHR-DAY4](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_23%EC%9D%BC.md)|[LSH-DAY4](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-22.md)|[SYS-DAY4](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-22.md)|
 |2022-07-23||[LSH-DAY5](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-23.md)|[SYS-DAY5](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-23.md)|
-|2022-07-24||[LSH-DAY6](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-24.md)||
+|2022-07-24||[LSH-DAY6](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-24.md)|[SYS-DAY6](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-24.md)|
 
 <!--
 |테스트1|테스트2|테스트3|
@@ -62,7 +62,7 @@
 |bean vs component|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/bean_VS_component.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Been_VS_Component.md)|[🔵](https://www.notion.so/Bean-Component-6597956a7ed5474b8e92a0170b0bb882)|
 |GIT |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/GIT.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/GIT.md)|[🔵](https://github.com/F-UMI/TDL/blob/main/Topic/Git.md)|
 |DNS|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/DNS.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/DNS.md)|[🔵](https://www.notion.so/DNS-Domain-Name-System-d073f997744d4e8ab628fc72a15154d1)|
-|멀티프로세스와 멀티스레드 차이||||
+|멀티프로세스와 멀티스레드 차이|||[🔵](https://www.notion.so/Multi-Process-VS-Multi-Thread-d44877346915498b9d89f089e42d2e19)|
 |교착상태||||
 |세마포어와 뮤텍스||||
 |REST API||||
