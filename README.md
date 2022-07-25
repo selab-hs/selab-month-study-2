@@ -42,7 +42,7 @@
 |2022-07-22|[HHR-DAY4](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_23%EC%9D%BC.md)|[LSH-DAY4](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-22.md)|[SYS-DAY4](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-22.md)|
 |2022-07-23|[HHR-DAY5](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_24%EC%9D%BC.md)|[LSH-DAY5](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-23.md)|[SYS-DAY5](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-23.md)|
 |2022-07-24||[LSH-DAY6](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-24.md)|[SYS-DAY6](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-24.md)|
-|2022-07-25|||[SYS-DAY7](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-25.md)|
+|2022-07-25||[LSH-DAY6](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-25.md)|[SYS-DAY7](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-25.md)|
 |2022-07-26|||[SYS-DAY8](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-26.md)|
 
 <!--
@@ -65,7 +65,7 @@
 |GIT|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/GIT.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/GIT.md)|[🔵](https://github.com/F-UMI/TDL/blob/main/Topic/Git.md)|
 |DNS|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/DNS.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/DNS.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DNS-Domain-Name-System-d073f997744d4e8ab628fc72a15154d1)|
 |멀티프로세스와 멀티스레드 차이|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Multi_Process_VS_Thread.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Multi-Process-VS-Multi-Thread-d44877346915498b9d89f089e42d2e19)|
-|교착상태|||[🔵](https://chlorinated-alloy-2a8.notion.site/Deadlock-42d067153b2e4f2d9c78e724fd5d5a48)|
+|교착상태||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/DeadLock.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Deadlock-42d067153b2e4f2d9c78e724fd5d5a48)|
 |세마포어와 뮤텍스||||
 |REST API||||
 |동기 vs 비동기||||
