@@ -71,7 +71,7 @@
 |교착상태||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/DeadLock.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Deadlock-42d067153b2e4f2d9c78e724fd5d5a48)|
 |세마포어와 뮤텍스||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Semaphore_VS_Mutex.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Semaphore-Mutex-8a55e756bcd54e5699607e926062dc32)|
 |REST API||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Rest_API.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/REST-API-Representational-State-Transfer-API-4895ba27d5f44e7a82dc99b5110224bc)|
-|동기 vs 비동기||||
+|동기 vs 비동기||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Synchronous_VS_Asynchronous.md)||
 |OSI L4||||
 |concurrency vs parallelism||||
 |로드밸런스||||
