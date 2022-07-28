@@ -45,6 +45,9 @@
 |2022-07-25||[LSH-DAY7](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-25.md)|[SYS-DAY7](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-25.md)|
 |2022-07-26||[LSH-DAY8](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-26.md)|[SYS-DAY8](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-26.md)|
 |2022-07-27||[LSH-DAY9](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-27.md)|[SYS-DAY9](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-27.md)|
+|2022-07-28||[LSH-DAY10](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-28.md)||
+
+
 <!--
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
@@ -67,7 +70,7 @@
 |멀티프로세스와 멀티스레드 차이|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Multi_Process_VS_Thread.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Multi-Process-VS-Multi-Thread-d44877346915498b9d89f089e42d2e19)|
 |교착상태||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/DeadLock.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Deadlock-42d067153b2e4f2d9c78e724fd5d5a48)|
 |세마포어와 뮤텍스||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Semaphore_VS_Mutex.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Semaphore-Mutex-8a55e756bcd54e5699607e926062dc32)|
-|REST API|||[🔵](https://chlorinated-alloy-2a8.notion.site/REST-API-Representational-State-Transfer-API-4895ba27d5f44e7a82dc99b5110224bc)|
+|REST API||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Rest_API.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/REST-API-Representational-State-Transfer-API-4895ba27d5f44e7a82dc99b5110224bc)|
 |동기 vs 비동기||||
 |OSI L4||||
 |concurrency vs parallelism||||
