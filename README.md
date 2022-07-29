@@ -72,7 +72,7 @@
 |세마포어와 뮤텍스||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Semaphore_VS_Mutex.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Semaphore-Mutex-8a55e756bcd54e5699607e926062dc32)|
 |REST API||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Rest_API.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/REST-API-Representational-State-Transfer-API-4895ba27d5f44e7a82dc99b5110224bc)|
 |동기 vs 비동기|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EB%8F%99%EA%B8%B0%EC%99%80_%EB%B9%84%EB%8F%99%EA%B8%B0.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Synchronous_VS_Asynchronous.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/VS-68ce3ee0361840809bba7ba5c2848f94)|
-|OSI L4||||
+|OSI L4|||[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-L4-354fc74225914f2586c0f7d2a56337d2)|
 |concurrency vs parallelism||||
 |로드밸런스||||
 |IP, TCP, UDP, HTTP||||
