@@ -110,7 +110,7 @@
 |일자|황하림|이상호|신윤섭|
 |:---:|:---:|:---:|:---:|
 |22/07/19 - 22/07/24|[HHR-WEEK1]()|[LSH-WEEK1](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/Week1.md)|[SYS-WEEK1](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/1%EC%A3%BC%EC%B0%A8%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|
-|[HHR-WEEK2]()|||
+|22/07/25 - 22/07/31|[HHR-WEEK2]()|||
 
 ---
 
