@@ -48,7 +48,8 @@
 |2022-07-28|[HHR-DAY10](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_28%EC%9D%BC.md)|[LSH-DAY10](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-28.md)|[SYS-DAY10](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-28.md)|
 |2022-07-29|[HHR-DAY11](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_29%EC%9D%BC.md)|[LSH-DAY11](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-29.md)|[SYS-DAY11](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-29.md)|
 |2022-07-30|[HHR-DAY12](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_30%EC%9D%BC.md)|[LSH-DAY12](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-30.md)|[SYS-DAY12](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-30.md)|
-|2022-07-31|[HHR-Day13](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_31%EC%9D%BC.md)|[LSH-DAY13](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-31.md)||
+|2022-07-31|[HHR-Day13](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_31%EC%9D%BC.md)|[LSH-DAY13](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-31.md)|[SYS-DAY12](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-31.md)|
+|2022-08-01|||[SYS-DAY12](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-01.md)|
 
 <!--
 |테스트1|테스트2|테스트3|
@@ -110,7 +111,7 @@
 |일자|황하림|이상호|신윤섭|
 |:---:|:---:|:---:|:---:|
 |22/07/19 - 22/07/24|[HHR-WEEK1]()|[LSH-WEEK1](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/Week1.md)|[SYS-WEEK1](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/1%EC%A3%BC%EC%B0%A8%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|
-|22/07/25 - 22/07/31|[HHR-WEEK2]()|||
+|22/07/25 - 22/07/31|[HHR-WEEK2]()||[SYS-WEEK1](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/1%EC%A3%BC%EC%B0%A8%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|
 
 ---
 
