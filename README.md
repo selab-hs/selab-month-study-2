@@ -48,6 +48,7 @@
 |2022-07-28|[HHR-DAY10](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_28%EC%9D%BC.md)|[LSH-DAY10](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-28.md)|[SYS-DAY10](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-28.md)|
 |2022-07-29|[HHR-DAY11](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_29%EC%9D%BC.md)|[LSH-DAY11](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-29.md)|[SYS-DAY11](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-29.md)|
 |2022-07-30|[HHR-DAY12](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_30%EC%9D%BC.md)|[LSH-DAY12](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-30.md)|[SYS-DAY12](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-30.md)|
+|2022-07-31||[LSH-DAY13](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-31.md)||
 
 <!--
 |테스트1|테스트2|테스트3|
@@ -122,4 +123,3 @@
 |2022-07-24|황하림|가족여행|4|
 |2022-07-25|황하림|가족여행|3|
 |2022-07-26|황하림|가족여행|2|
-
