@@ -64,11 +64,11 @@
 
 |         주제         |황하림|이상호|신윤섭|
 |:------------------:|:---:|:---:|:---:|
-|      osi 7계층       |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/OSI_7layerd.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/OSI-7layerd.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-7-6054760308f2416eb331da0004cfb352)|
-|       OSI L4       |🔴|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/OSI_L4.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-L4-354fc74225914f2586c0f7d2a56337d2)|
-|        DNS         |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/DNS.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/DNS.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DNS-Domain-Name-System-d073f997744d4e8ab628fc72a15154d1)|
-|      REST API      ||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Rest_API.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/REST-API-Representational-State-Transfer-API-4895ba27d5f44e7a82dc99b5110224bc)|
-|      로드밸런스         ||[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Load_Balancing.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Load-Balancer-859aae94ee574c0fa7a6706bd5f85f78)|
+|      osi 7계층       |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/OSI_7layerd.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/OSI-7layerd.md](https://github.com/LSH-3016/TIL/blob/main/CS/Network/OSI-7layerd.md))|[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-7-6054760308f2416eb331da0004cfb352)|
+|       OSI L4       |🔴|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/OSI_L4.md](https://github.com/LSH-3016/TIL/blob/main/CS/Network/OSI_L4.md))|[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-L4-354fc74225914f2586c0f7d2a56337d2)|
+|        DNS         |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/DNS.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/DNS.md](https://github.com/LSH-3016/TIL/blob/main/CS/Network/DNS.md))|[🔵](https://chlorinated-alloy-2a8.notion.site/DNS-Domain-Name-System-d073f997744d4e8ab628fc72a15154d1)|
+|      REST API      ||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Rest_API.md](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Rest_API.md))|[🔵](https://chlorinated-alloy-2a8.notion.site/REST-API-Representational-State-Transfer-API-4895ba27d5f44e7a82dc99b5110224bc)|
+|      로드밸런스         ||[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Load_Balancing.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Load-Balancer-859aae94ee574c0fa7a6706bd5f85f78)|
 | IP, TCP, UDP, HTTP ||||
 |        라우터         ||||
 |   HTTP vs HTTPS    ||||
@@ -89,11 +89,11 @@
 
 |         주제        |황하림|이상호|신윤섭|
 |:------------------:|:---:|:---:|:---:|
-|멀티프로세스와 멀티스레드 차이|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Multi_Process_VS_Thread.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Multi-Process-VS-Multi-Thread-d44877346915498b9d89f089e42d2e19)|
-|교착상태||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/DeadLock.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Deadlock-42d067153b2e4f2d9c78e724fd5d5a48)|
-|세마포어와 뮤텍스||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Semaphore_VS_Mutex.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Semaphore-Mutex-8a55e756bcd54e5699607e926062dc32)|
-|동기 vs 비동기|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EB%8F%99%EA%B8%B0%EC%99%80_%EB%B9%84%EB%8F%99%EA%B8%B0.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Synchronous_VS_Asynchronous.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/VS-68ce3ee0361840809bba7ba5c2848f94)|
-|concurrency vs parallelism|[🔴](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/concurrency_vs_parallelism.md)|[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/ConCurrency_VS_Parallelism.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Concurrency-VS-Parallelism-ea108db15136486e94c6ffc886dbb9ce)|
+|멀티프로세스와 멀티스레드 차이|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Multi_Process_VS_Thread.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Multi-Process-VS-Multi-Thread-d44877346915498b9d89f089e42d2e19)|
+|교착상태||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/DeadLock.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Deadlock-42d067153b2e4f2d9c78e724fd5d5a48)|
+|세마포어와 뮤텍스||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Semaphore_VS_Mutex.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Semaphore-Mutex-8a55e756bcd54e5699607e926062dc32)|
+|동기 vs 비동기|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EB%8F%99%EA%B8%B0%EC%99%80_%EB%B9%84%EB%8F%99%EA%B8%B0.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Synchronous_VS_Asynchronous.md))|[🔵](https://chlorinated-alloy-2a8.notion.site/VS-68ce3ee0361840809bba7ba5c2848f94)|
+|concurrency vs parallelism|[🔴](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/concurrency_vs_parallelism.md)|[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/ConCurrency_VS_Parallelism.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Concurrency-VS-Parallelism-ea108db15136486e94c6ffc886dbb9ce)|
 |캐시||||
 |RAID||||
 |스케줄링 기법||||
@@ -104,7 +104,7 @@
 |         주제        |황하림|이상호|신윤섭|
 |:------------------:|:---:|:---:|:---:|
 |IOC, DI, AOP|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/AOP_DI_IoC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/IOC-DI-AOP.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/IoC-DI-AOP-64c9e6298c49423680d7a0ef9e6af6ef)|
-|bean vs component|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/bean_VS_component.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Been_VS_Component.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Bean-Component-6597956a7ed5474b8e92a0170b0bb882)|
+|bean vs component|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/bean_VS_component.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Been_VS_Component.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Bean-Component-6597956a7ed5474b8e92a0170b0bb882)|
 |스프링의 동작 과정||||
 |스프링 컨테이너||||
 |spring servlet||||
@@ -119,8 +119,8 @@
 
 |         주제        |황하림|이상호|신윤섭|
 |:------------------:|:---:|:---:|:---:|
-|접근제한자, 생성자, SOLID|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90_%EC%83%9D%EC%84%B1%EC%9E%90_SOLID.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/AM-Contructor-SOLID.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Access-Modifier-Constructor-SOLID-b5725ffea98e4020ab4905c358f2be8a)|
-|Java Collection|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/Java_Collection.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java_Collection.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Collection-78ead0e6fcd0402a834f8f528c0a7d63)|
+|접근제한자, 생성자, SOLID|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90_%EC%83%9D%EC%84%B1%EC%9E%90_SOLID.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/AM-Contructor-SOLID.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Access-Modifier-Constructor-SOLID-b5725ffea98e4020ab4905c358f2be8a)|
+|Java Collection|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/Java_Collection.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Collection.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Collection-78ead0e6fcd0402a834f8f528c0a7d63)|
 |Java의 Object||||
 |java 메모리 구조||||
 |checked exception vs unchecked exception||||
@@ -134,7 +134,7 @@
 
 |     주제     |황하림|이상호|신윤섭|
 |:----------:|:---:|:---:|:---:|
-|     정렬     |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%A0%95%EB%A0%AC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Sorting_Algorithm.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Sorting-3b2b2bd62df1473b9308c50201ca7913)|
+|     정렬     |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%A0%95%EB%A0%AC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Sorting_Algorithm.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Sorting-3b2b2bd62df1473b9308c50201ca7913)|
 |시간 복잡도, 공간 복잡도||||
 |이진 탐색||||
 |tree||||
@@ -143,9 +143,9 @@
 
 |         주제        |황하림|이상호|신윤섭|
 |:------------------:|:---:|:---:|:---:|
-|GIT|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/GIT.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/GIT.md)|[🔵](https://github.com/F-UMI/TDL/blob/main/Topic/Git.md)|
+|GIT|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/GIT.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Etc/GIT.md)|[🔵](https://github.com/F-UMI/TDL/blob/main/Topic/Git.md)|
 |Call By Value와 Call By Reference||||
-|Dto|||[🔵](https://chlorinated-alloy-2a8.notion.site/DTO-Data-Transfer-Object-57b962cce6a14facb1e598c3cc1bc09f)|
+|Dto||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Etc/DTO.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DTO-Data-Transfer-Object-57b962cce6a14facb1e598c3cc1bc09f)|
 |객체지향 vs 절차지향||||
 |sdk와 api||||
 |개발자가 되고 싶은 이유||||
