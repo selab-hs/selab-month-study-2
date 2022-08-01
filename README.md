@@ -60,6 +60,8 @@
 
 ### 😍 오늘의 토픽 (진행중 : 🔴 / 완료 : 🔵)
 
+Network
+
 |주제|황하림|이상호|신윤섭|
 |:---:|:---:|:---:|:---:|
 |osi 7계층|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/OSI_7layerd.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/OSI-7layerd.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-7-6054760308f2416eb331da0004cfb352)|
