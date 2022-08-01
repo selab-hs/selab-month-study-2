@@ -32,7 +32,10 @@
 
 ### 🙂 매일 매일 공부
 
-7월
+<details>
+<summary>7월</summary>
+<div markdown="1">
+<br>
 
 |일자|황하림|이상호|신윤섭|
 |:---:|:---:|:---:|:---:|
@@ -49,6 +52,12 @@
 |2022-07-29|[HHR-DAY11](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_29%EC%9D%BC.md)|[LSH-DAY11](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-29.md)|[SYS-DAY11](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-29.md)|
 |2022-07-30|[HHR-DAY12](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_30%EC%9D%BC.md)|[LSH-DAY12](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-30.md)|[SYS-DAY12](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-30.md)|
 |2022-07-31|[HHR-Day13](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/7%EC%9B%94/7%EC%9B%94_31%EC%9D%BC.md)|[LSH-DAY13](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/07-31.md)|[SYS-DAY13](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/07/07-31.md)|
+  
+</div>
+</details>
+ 
+|일자|황하림|이상호|신윤섭|
+|:---:|:---:|:---:|:---:|
 |2022-08-01||[LSH-DAY14](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-01.md)|[SYS-DAY14](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-01.md)|
 
 <!--
