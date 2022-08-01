@@ -81,7 +81,7 @@
 |IP, TCP, UDP, HTTP||||
 |Call By Value와 Call By Reference||||
 |Java의 Object||||
-|Dto||||
+|Dto|||[🔵](https://chlorinated-alloy-2a8.notion.site/DTO-Data-Transfer-Object-57b962cce6a14facb1e598c3cc1bc09f)|
 |DB Index||||
 |스프링의 동작 과정||||
 |캐시||||
