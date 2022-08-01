@@ -64,10 +64,10 @@
 
 |         주제         |황하림|이상호|신윤섭|
 |:------------------:|:---:|:---:|:---:|
-|      osi 7계층       |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/OSI_7layerd.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/OSI-7layerd.md](https://github.com/LSH-3016/TIL/blob/main/CS/Network/OSI-7layerd.md))|[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-7-6054760308f2416eb331da0004cfb352)|
-|       OSI L4       |🔴|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/OSI_L4.md](https://github.com/LSH-3016/TIL/blob/main/CS/Network/OSI_L4.md))|[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-L4-354fc74225914f2586c0f7d2a56337d2)|
-|        DNS         |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/DNS.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/DNS.md](https://github.com/LSH-3016/TIL/blob/main/CS/Network/DNS.md))|[🔵](https://chlorinated-alloy-2a8.notion.site/DNS-Domain-Name-System-d073f997744d4e8ab628fc72a15154d1)|
-|      REST API      ||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Rest_API.md](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Rest_API.md))|[🔵](https://chlorinated-alloy-2a8.notion.site/REST-API-Representational-State-Transfer-API-4895ba27d5f44e7a82dc99b5110224bc)|
+|      osi 7계층       |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/OSI_7layerd.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/OSI-7layerd.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-7-6054760308f2416eb331da0004cfb352)|
+|       OSI L4       |🔴|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/OSI_L4.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-L4-354fc74225914f2586c0f7d2a56337d2)|
+|        DNS         |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/DNS.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/DNS.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DNS-Domain-Name-System-d073f997744d4e8ab628fc72a15154d1)|
+|      REST API      ||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Rest_API.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/REST-API-Representational-State-Transfer-API-4895ba27d5f44e7a82dc99b5110224bc)|
 |      로드밸런스         ||[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Load_Balancing.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Load-Balancer-859aae94ee574c0fa7a6706bd5f85f78)|
 | IP, TCP, UDP, HTTP ||||
 |        라우터         ||||
