@@ -145,7 +145,7 @@
 |:----------:|:---:|:---:|:---:|
 |     정렬     |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%A0%95%EB%A0%AC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Sorting_Algorithm.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Sorting-3b2b2bd62df1473b9308c50201ca7913)|
 |시간 복잡도, 공간 복잡도||||
-|이진 탐색||||
+|이진 탐색|||[🔵](https://chlorinated-alloy-2a8.notion.site/Binary-Search-e4558c5addd34f5babaf436565f3b00a)|
 |tree||||
 
 ### Etc
