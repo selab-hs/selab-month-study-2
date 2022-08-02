@@ -83,6 +83,7 @@
 |        라우터         ||||
 |   HTTP vs HTTPS    ||||
 | Cookie vs Session  ||||
+|http 1,2,3||||
 
 ### Database
 
@@ -94,6 +95,7 @@
 |RDB vs Nosql||||
 |트랜잭션||||
 |DDL, DML, DCL||||
+|sql injection||||
 
 ### Operate System
 
@@ -108,6 +110,7 @@
 |RAID||||
 |스케줄링 기법||||
 |커널||||
+|Critical Section||||
 
 ### Spring
 
@@ -124,6 +127,7 @@
 |트랜잭션||||
 |filter, intercepter. aop||||
 |spring vs spring boot||||
+|Dispatcher Servlet||||
 
 ### Java
 
@@ -139,6 +143,7 @@
 |Jpa 1차 캐시||||
 |오버라이딩 vs 오버로딩||||
 |Java compile 과정||||
+|java version별 차이점||||
 
 ### Algorithm
 
@@ -148,6 +153,7 @@
 |시간 복잡도, 공간 복잡도||||
 |이진 탐색||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Binary_Search.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Binary-Search-e4558c5addd34f5babaf436565f3b00a)|
 |tree||||
+|동적 계획법 dp||||
 
 ### Etc
 
@@ -161,6 +167,7 @@
 |개발자가 되고 싶은 이유||||
 |좋은 개발자란 무엇일까요||||
 |비IT 동료와 효율적인 의사소통을 하기 위한 방법||||
+|다른팀과 협업시 갈등이 있었을 떄 어떤식으로 해결했는지||||
 
 
 <!--
