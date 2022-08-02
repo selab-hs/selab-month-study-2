@@ -59,6 +59,7 @@
 |일자|황하림|이상호|신윤섭|
 |:---:|:---:|:---:|:---:|
 |2022-08-01||[LSH-DAY14](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-01.md)|[SYS-DAY14](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-01.md)|
+|2022-08-01||[LSH-DAY15](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-02.md)||
 
 <!--
 |테스트1|테스트2|테스트3|
