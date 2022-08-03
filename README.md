@@ -58,9 +58,9 @@
  
 |일자|황하림|이상호|신윤섭|
 |:---:|:---:|:---:|:---:|
-|2022-08-01||[LSH-DAY14](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-01.md)|[SYS-DAY14](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-01.md)|
-|2022-08-02||[LSH-DAY15](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-02.md)|[SYS-DAY15](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-02.md)|
-|2022-08-03||[LSH-DAY16](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-03.md)|[SYS-DAY16](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-03.md)|
+|2022-08-01|[HHR-DAY14](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_1%EC%9D%BC.md)|[LSH-DAY14](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-01.md)|[SYS-DAY14](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-01.md)|
+|2022-08-02|[HHR-DAY15](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_2%EC%9D%BC.md)|[LSH-DAY15](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-02.md)|[SYS-DAY15](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-02.md)|
+|2022-08-03|[HHR-DAY16](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_3%EC%9D%BC.md)|[LSH-DAY16](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-03.md)|[SYS-DAY16](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-03.md)|
 |2022-08-04||||
 |2022-08-05||||
 |2022-08-06||||
@@ -127,9 +127,9 @@
 |bean vs component|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/bean_VS_component.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Been_VS_Component.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Bean-Component-6597956a7ed5474b8e92a0170b0bb882)|
 |스프링의 동작 과정||||
 |스프링 컨테이너||||
-|spring servlet||[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Servlet.md)|[🔴]()|
+|spring servlet|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringServlet.md)|[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Servlet.md)|[🔴]()|
 |spring vs EJB||||
-|Spring MVC||||
+|Spring MVC|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringMVC.md)|||
 |본인이 생각하는 스프링의 장점||||
 |트랜잭션||||
 |filter, intercepter. aop||||
