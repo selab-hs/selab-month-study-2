@@ -127,7 +127,7 @@
 |bean vs component|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/bean_VS_component.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Been_VS_Component.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Bean-Component-6597956a7ed5474b8e92a0170b0bb882)|
 |스프링의 동작 과정||||
 |스프링 컨테이너||||
-|spring servlet|||[🔴]()|
+|spring servlet||[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Servlet.md)|[🔴]()|
 |spring vs EJB||||
 |Spring MVC||||
 |본인이 생각하는 스프링의 장점||||
