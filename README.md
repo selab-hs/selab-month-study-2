@@ -61,7 +61,7 @@
 |2022-08-01|[HHR-DAY14](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_1%EC%9D%BC.md)|[LSH-DAY14](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-01.md)|[SYS-DAY14](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-01.md)|
 |2022-08-02|[HHR-DAY15](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_2%EC%9D%BC.md)|[LSH-DAY15](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-02.md)|[SYS-DAY15](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-02.md)|
 |2022-08-03|[HHR-DAY16](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_3%EC%9D%BC.md)|[LSH-DAY16](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-03.md)|[SYS-DAY16](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-03.md)|
-|2022-08-04||[LSH-DAY17](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-04.md)|[SYS-DAY17](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-04.md)|
+|2022-08-04|[HHR-17DAY](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_4%EC%9D%BC.md)|[LSH-DAY17](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-04.md)|[SYS-DAY17](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-04.md)|
 |2022-08-05||||
 |2022-08-06||||
 |2022-08-07||||
@@ -113,7 +113,7 @@
 |세마포어와 뮤텍스||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Semaphore_VS_Mutex.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Semaphore-Mutex-8a55e756bcd54e5699607e926062dc32)|
 |동기 vs 비동기|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EB%8F%99%EA%B8%B0%EC%99%80_%EB%B9%84%EB%8F%99%EA%B8%B0.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Synchronous_VS_Asynchronous.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/VS-68ce3ee0361840809bba7ba5c2848f94)|
 |concurrency vs parallelism|[🔴](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/concurrency_vs_parallelism.md)|[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/ConCurrency_VS_Parallelism.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Concurrency-VS-Parallelism-ea108db15136486e94c6ffc886dbb9ce)|
-|캐시||||
+|캐시|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Operate_System/%EC%BA%90%EC%8B%9C.md)|||
 |RAID||||
 |스케줄링 기법||||
 |커널||||
