@@ -98,7 +98,7 @@
 |:------------------:|:---:|:---:|:---:|
 |DB Index||||
 |Database Engine||||
-|Redis|||[🔵](https://chlorinated-alloy-2a8.notion.site/Redis-Remote-Dictonary-Server-66494b1ab67a429f89e2d16912a4ffa6)|
+|Redis||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/Redis.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Redis-Remote-Dictonary-Server-66494b1ab67a429f89e2d16912a4ffa6)|
 |RDB vs Nosql||||
 |트랜잭션||||
 |DDL, DML, DCL||||
