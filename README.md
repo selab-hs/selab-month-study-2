@@ -64,7 +64,7 @@
 |2022-08-04|[HHR-17DAY](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_4%EC%9D%BC.md)|[LSH-DAY17](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-04.md)|[SYS-DAY17](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-04.md)|
 |2022-08-05||[LSH-DAY18](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-05.md)|[SYS-DAY18](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-05.md)|
 |2022-08-06||[LSH-DAY19](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-06.md)|[SYS-DAY19](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-06.md)|
-|2022-08-07||||
+|2022-08-07||[LSH-DAY20](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-07.md)||
 |2022-08-08||||
 |2022-08-09||||
 |2022-08-10||||
