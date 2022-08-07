@@ -61,9 +61,9 @@
 |2022-08-01|[HHR-DAY14](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_1%EC%9D%BC.md)|[LSH-DAY14](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-01.md)|[SYS-DAY14](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-01.md)|
 |2022-08-02|[HHR-DAY15](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_2%EC%9D%BC.md)|[LSH-DAY15](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-02.md)|[SYS-DAY15](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-02.md)|
 |2022-08-03|[HHR-DAY16](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_3%EC%9D%BC.md)|[LSH-DAY16](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-03.md)|[SYS-DAY16](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-03.md)|
-|2022-08-04|[HHR-17DAY](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_4%EC%9D%BC.md)|[LSH-DAY17](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-04.md)|[SYS-DAY17](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-04.md)|
-|2022-08-05||[LSH-DAY18](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-05.md)|[SYS-DAY18](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-05.md)|
-|2022-08-06||[LSH-DAY19](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-06.md)|[SYS-DAY19](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-06.md)|
+|2022-08-04|[HHR-DAY17](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_4%EC%9D%BC.md)|[LSH-DAY17](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-04.md)|[SYS-DAY17](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-04.md)|
+|2022-08-05|[HHR-DAY18](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_6%EC%9D%BC.md)|[LSH-DAY18](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-05.md)|[SYS-DAY18](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-05.md)|
+|2022-08-06|[HHR-DAY19](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_7%EC%9D%BC.md)|[LSH-DAY19](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-06.md)|[SYS-DAY19](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-06.md)|
 |2022-08-07||[LSH-DAY20](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-07.md)||
 |2022-08-08||||
 |2022-08-09||||
@@ -98,8 +98,8 @@
 |:------------------:|:---:|:---:|:---:|
 |DB Index||||
 |Database Engine||||
-|Redis||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/Redis.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Redis-Remote-Dictonary-Server-66494b1ab67a429f89e2d16912a4ffa6)|
-|RDB vs Nosql||||
+|Redis|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/Redis.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/Redis.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Redis-Remote-Dictonary-Server-66494b1ab67a429f89e2d16912a4ffa6)|
+|RDB vs Nosql|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/NoSQL.md)|||
 |트랜잭션||||
 |DDL, DML, DCL||||
 |sql injection||||
