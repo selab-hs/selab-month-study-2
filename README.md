@@ -64,8 +64,8 @@
 |2022-08-04|[HHR-DAY17](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_4%EC%9D%BC.md)|[LSH-DAY17](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-04.md)|[SYS-DAY17](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-04.md)|
 |2022-08-05|[HHR-DAY18](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_6%EC%9D%BC.md)|[LSH-DAY18](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-05.md)|[SYS-DAY18](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-05.md)|
 |2022-08-06|[HHR-DAY19](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_7%EC%9D%BC.md)|[LSH-DAY19](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-06.md)|[SYS-DAY19](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-06.md)|
-|2022-08-07|[HHR-DAY20](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_8%EC%9D%BC.md)|[LSH-DAY20](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-07.md)||
-|2022-08-08||||
+|2022-08-07|[HHR-DAY20](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_8%EC%9D%BC.md)|[LSH-DAY20](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-07.md)|[SYS휴가]|
+|2022-08-08|||[SYS-DAY21](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-08.md)|
 |2022-08-09||||
 |2022-08-10||||
 <!--
@@ -129,7 +129,7 @@
 |스프링 컨테이너||||
 |spring servlet|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringServlet.md)|[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Servlet.md)|[🔴]()|
 |spring vs EJB||||
-|Spring MVC|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringMVC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Spring_MVC_Process.md)||
+|Spring MVC|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringMVC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Spring_MVC_Process.md)|[🔴](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)|
 |본인이 생각하는 스프링의 장점||||
 |트랜잭션||||
 |filter, intercepter. aop||||
