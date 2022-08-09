@@ -66,7 +66,7 @@
 |2022-08-06|[HHR-DAY19](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_7%EC%9D%BC.md)|[LSH-DAY19](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-06.md)|[SYS-DAY19](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-06.md)|
 |2022-08-07|[HHR-DAY20](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_8%EC%9D%BC.md)|[LSH-DAY20](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-07.md)|[SYS휴가]|
 |2022-08-08|[HHR-DAY21](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_8%EC%9D%BC.md)|[LSH-DAY21](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-08.md)|[SYS-DAY21](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-08.md)|
-|2022-08-09||||
+|2022-08-09||||[SYS-DAY22](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-09.md)|
 |2022-08-10||||
 <!--
 |테스트1|테스트2|테스트3|
@@ -129,7 +129,7 @@
 |스프링 컨테이너||||
 |spring servlet|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringServlet.md)|[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Servlet.md)|[🔴]()|
 |spring vs EJB||||
-|Spring MVC|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringMVC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Spring_MVC_Process.md)|[🔴](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)|
+|Spring MVC|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringMVC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Spring_MVC_Process.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)|
 |본인이 생각하는 스프링의 장점||||
 |트랜잭션||||
 |filter, intercepter. aop||||
@@ -143,7 +143,7 @@
 |접근제한자, 생성자, SOLID|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90_%EC%83%9D%EC%84%B1%EC%9E%90_SOLID.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/AM-Contructor-SOLID.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Access-Modifier-Constructor-SOLID-b5725ffea98e4020ab4905c358f2be8a)|
 |Java Collection|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/Java_Collection.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Collection.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Collection-78ead0e6fcd0402a834f8f528c0a7d63)|
 |Java의 Object||||
-|java 메모리 구조||||
+|java 메모리 구조|||[🔵](https://chlorinated-alloy-2a8.notion.site/d2adf9c6a5fe495482edc1f41d85ef83)|
 |checked exception vs unchecked exception||||
 |Jpa 더티체킹||||
 |Jpa 엔티티매니저||||
@@ -190,7 +190,7 @@
 |:---:|:---:|:---:|:---:|
 |22/07/19 - 22/07/24|[HHR-WEEK1]()|[LSH-WEEK1](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/Week1.md)|[SYS-WEEK1](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/1%EC%A3%BC%EC%B0%A8%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|
 |22/07/25 - 22/07/31|[HHR-WEEK2](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/2Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK2](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/Week2.md)|[SYS-WEEK2](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/2%EC%A3%BC%EC%B0%A8%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|
-|22/08/01 - 22/08/07|[HHR-WEEK3](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/3Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|||
+|22/08/01 - 22/08/07|[HHR-WEEK3](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/3Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)||[SYS-WEEK3]()|
 
 ---
 
