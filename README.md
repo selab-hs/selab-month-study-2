@@ -103,7 +103,7 @@
 | IP, TCP, UDP, HTTP ||||
 |        라우터         ||||
 |   HTTP vs HTTPS    ||||
-| Cookie vs Session  ||||
+| Cookie vs Session  |||[🔴](https://chlorinated-alloy-2a8.notion.site/Cookie-VS-Session-f689c1e2316e48008eb85351419364a6)|
 |http 1,2,3||||
 
 ### Database
