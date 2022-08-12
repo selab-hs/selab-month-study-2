@@ -171,7 +171,7 @@
 |     주제     |황하림|이상호|신윤섭|
 |:----------:|:---:|:---:|:---:|
 |     정렬     |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%A0%95%EB%A0%AC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Sorting_Algorithm.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Sorting-3b2b2bd62df1473b9308c50201ca7913)|
-|시간 복잡도, 공간 복잡도||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Complexity.md)||
+|시간 복잡도, 공간 복잡도||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Complexity.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/ec66b92c38314c3fb84ddd4c800c31e6)|
 |이진 탐색|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Algorithm/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Binary_Search.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Binary-Search-e4558c5addd34f5babaf436565f3b00a)|
 |tree||||
 |동적 계획법 dp||||
