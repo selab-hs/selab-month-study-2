@@ -69,7 +69,7 @@
 |2022-08-09|[HHR-DAY22](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_9%EC%9D%BC.md)|[LSH-DAY22](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-09.md)|[SYS-DAY22](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-09.md)|
 |2022-08-10|[HHR-DAY23](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_10%EC%9D%BC.md)|[LSH-DAY23](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-10.md)|[SYS-DAY23](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-10.md)|
 |2022-08-11|[HHR-DAY24](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_11%EC%9D%BC.md)|[LSH-DAY24](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-11.md)||
-|2022-08-12||||
+|2022-08-12||[LSH-DAY25](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-12.md)||
 |2022-08-13||||
 |2022-08-14||||
 |2022-08-15||||
@@ -115,7 +115,7 @@
 |Redis|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/Redis.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/Redis.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Redis-Remote-Dictonary-Server-66494b1ab67a429f89e2d16912a4ffa6)|
 |RDB vs Nosql|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/NoSQL.md)|||
 |트랜잭션||||
-|DDL, DML, DCL||||
+|DDL, DML, DCL||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/DDL-DML-DCL.md)||
 |sql injection||||
 
 ### Operate System
