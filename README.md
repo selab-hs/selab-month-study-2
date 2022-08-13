@@ -70,7 +70,7 @@
 |2022-08-10|[HHR-DAY23](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_10%EC%9D%BC.md)|[LSH-DAY23](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-10.md)|[SYS-DAY23](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-10.md)|
 |2022-08-11|[HHR-DAY24](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_11%EC%9D%BC.md)|[LSH-DAY24](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-11.md)|[SYS-DAY24](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-11.md)|
 |2022-08-12|[HHR-DAY25](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_12%EC%9D%BC.md)|[LSH-DAY25](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-12.md)|[SYS-DAY25](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-12.md)|
-|2022-08-13||||
+|2022-08-13||[LSH-DAY26](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-13.md)||
 |2022-08-14||||
 |2022-08-15||||
 |2022-08-16||||
@@ -183,7 +183,7 @@
 |GIT|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/GIT.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Etc/GIT.md)|[🔵](https://github.com/F-UMI/TDL/blob/main/Topic/Git.md)|
 |Call By Value와 Call By Reference||||
 |Dto||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Etc/DTO.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DTO-Data-Transfer-Object-57b962cce6a14facb1e598c3cc1bc09f)|
-|객체지향 vs 절차지향||||
+|객체지향 vs 절차지향||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Etc/Procedural_VS_Object_Oriented.md)||
 |sdk와 api||||
 |개발자가 되고 싶은 이유||||
 |좋은 개발자란 무엇일까요||||
