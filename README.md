@@ -105,6 +105,7 @@
 |   HTTP vs HTTPS    ||||
 | Cookie vs Session  |[🔵](https://magnetic-crow-9f1.notion.site/VS-c26b8c2c071544b8a38622158a4ade99)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Cookie_VS_Session.md)|[🔴](https://chlorinated-alloy-2a8.notion.site/Cookie-VS-Session-f689c1e2316e48008eb85351419364a6)|
 |http 1,2,3||||
+|cast (broadcast, unicast, multicast 등)||||
 
 ### Database
 
@@ -117,6 +118,7 @@
 |트랜잭션||||
 |DDL, DML, DCL||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/DDL-DML-DCL.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DDL-DML-DCL-4161bd7958ab4a46a02bdd48b54e60a9)|
 |sql injection||||
+|정규화||||
 
 ### Operate System
 
@@ -149,6 +151,7 @@
 |filter, intercepter. aop||||
 |spring vs spring boot||||
 |Dispatcher Servlet||||
+|maven, gradle||||
 
 ### Java
 
@@ -165,6 +168,8 @@
 |오버라이딩 vs 오버로딩||||
 |Java compile 과정||||
 |java version별 차이점||||
+|mutable vs immutable||||
+|인터페이스와 추상클래스||||
 
 ### Algorithm
 
@@ -189,6 +194,7 @@
 |좋은 개발자란 무엇일까요||||
 |비IT 동료와 효율적인 의사소통을 하기 위한 방법||||
 |다른팀과 협업시 갈등이 있었을 떄 어떤식으로 해결했는지||||
+|java와 c언어의 차이||||
 
 
 <!--
