@@ -72,7 +72,7 @@
 |2022-08-12|[HHR-DAY25](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_12%EC%9D%BC.md)|[LSH-DAY25](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-12.md)|[SYS-DAY25](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-12.md)|
 |2022-08-13|[HHR-DAY26](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_13%EC%9D%BC.md)|[LSH-DAY26](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-13.md)|[SYS-DAY26](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-13.md)|
 |2022-08-14|[HHR-DAY27](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_14%EC%9D%BC.md)|[LSH-DAY27](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-14.md)||
-|2022-08-15||[LSH-DAY28](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08.15.md)||
+|2022-08-15|[HHR-DAY28](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_15%EC%9D%BC.md)|[LSH-DAY28](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08.15.md)||
 |2022-08-16||||
 |2022-08-17||||
 |2022-08-18||||
@@ -211,6 +211,7 @@
 |22/07/19 - 22/07/24|[HHR-WEEK1]()|[LSH-WEEK1](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/Week1.md)|[SYS-WEEK1](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/1%EC%A3%BC%EC%B0%A8%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|
 |22/07/25 - 22/07/31|[HHR-WEEK2](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/2Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK2](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/Week2.md)|[SYS-WEEK2](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/2%EC%A3%BC%EC%B0%A8%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|
 |22/08/01 - 22/08/07|[HHR-WEEK3](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/3Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK3](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/Week3.md)|[SYS-WEEK3](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week3.md)|
+|22/08/08 - 22/08/014|[HHR-WEEK4](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/4Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|||
 
 ---
 
