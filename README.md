@@ -165,7 +165,7 @@
 |Jpa 더티체킹||||
 |Jpa 엔티티매니저||||
 |Jpa 1차 캐시||||
-|오버라이딩 vs 오버로딩||||
+|오버라이딩 vs 오버로딩||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Overloading_VS_Overriding.md)||
 |Java compile 과정||||
 |java version별 차이점||||
 |mutable vs immutable||||
