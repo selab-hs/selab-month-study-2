@@ -115,7 +115,7 @@
 |Database Engine||||
 |Redis|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/Redis.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/Redis.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Redis-Remote-Dictonary-Server-66494b1ab67a429f89e2d16912a4ffa6)|
 |RDB vs Nosql|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/NoSQL.md)|||
-|트랜잭션||||
+|트랜잭션|||[🔵](https://chlorinated-alloy-2a8.notion.site/aa01b61202214e4a817a19138e7fd749)|
 |DDL, DML, DCL||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/DDL-DML-DCL.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DDL-DML-DCL-4161bd7958ab4a46a02bdd48b54e60a9)|
 |sql injection||||
 |정규화||||
