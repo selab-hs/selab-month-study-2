@@ -6,11 +6,11 @@
 
 <div align="center">
 
-|     극락     |    황태구이 얌얌     |   리..리어카!      | 수원은 내 구역|
-| :-----------------------------------: | :-----------------: | :----------------: |:----------------: |
-| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://cdn.discordapp.com/attachments/817224906386571274/998916361449377872/KakaoTalk_20211221_233616844_02.jpg" height = "250" width="250"/>|<img src="http://file3.instiz.net/data/file3/2022/04/20/5/b/d/5bdbfa753e1ec8e28e1c83e46f56f623.jpg" width = "250" height = "250"/>|<img src="https://user-images.githubusercontent.com/54024213/180033873-15622ead-4d65-4c00-8b85-c2822256a72c.jpg">|
-|   [김동건](https://github.com/DongGeon0908) |   [황하림](https://github.com/HwangHarim) |   [이상호](https://github.com/LSH-3016)   |[신윤섭](https://github.com/F-UMI)   |
-|열심히 극락코딩!!|할 거면 잘하자!!|고이기전에 탈출|하던 대로 열심히|
+|     극락     |    황태구이 얌얌     |   리..리어카!      | 수원은 내 구역||
+| :-----------------------------------: | :-----------------: | :----------------: |:----------------: |:----------------: |
+| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://cdn.discordapp.com/attachments/817224906386571274/998916361449377872/KakaoTalk_20211221_233616844_02.jpg" height = "250" width="250"/>|<img src="http://file3.instiz.net/data/file3/2022/04/20/5/b/d/5bdbfa753e1ec8e28e1c83e46f56f623.jpg" width = "250" height = "250"/>|<img src="https://user-images.githubusercontent.com/54024213/180033873-15622ead-4d65-4c00-8b85-c2822256a72c.jpg">||
+|   [김동건](https://github.com/DongGeon0908) |   [황하림](https://github.com/HwangHarim) |   [이상호](https://github.com/LSH-3016)   |[신윤섭](https://github.com/F-UMI)   ||
+|열심히 극락코딩!!|할 거면 잘하자!!|고이기전에 탈출|하던 대로 열심히||
 
 <br>
 
@@ -56,8 +56,8 @@
 </div>
 </details>
  
-|일자|황하림|이상호|신윤섭|
-|:---:|:---:|:---:|:---:|
+|일자|황하림|이상호|신윤섭||
+|:---:|:---:|:---:|:---:|:---:|
 |2022-08-01|[HHR-DAY14](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_1%EC%9D%BC.md)|[LSH-DAY14](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-01.md)|[SYS-DAY14](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-01.md)|
 |2022-08-02|[HHR-DAY15](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_2%EC%9D%BC.md)|[LSH-DAY15](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-02.md)|[SYS-DAY15](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-02.md)|
 |2022-08-03|[HHR-DAY16](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_3%EC%9D%BC.md)|[LSH-DAY16](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-03.md)|[SYS-DAY16](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-03.md)|
@@ -74,7 +74,7 @@
 |2022-08-14|[HHR-DAY27](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_14%EC%9D%BC.md)|[LSH-DAY27](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-14.md)|[SYS-휴가]|
 |2022-08-15|[HHR-DAY28](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_15%EC%9D%BC.md)|[LSH-DAY28](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08.15.md)|[SYS-휴가]|
 |2022-08-16||[LSH-DAY29](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-16.md)|[SYS-DAY29](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-16.md)|
-|2022-08-17||||
+|2022-08-17|||[SYS-DAY30](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-17.md)|
 |2022-08-18||||
 |2022-08-19||||
 |2022-08-20||||
@@ -211,7 +211,7 @@
 |22/07/19 - 22/07/24|[HHR-WEEK1]()|[LSH-WEEK1](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/Week1.md)|[SYS-WEEK1](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/1%EC%A3%BC%EC%B0%A8%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|
 |22/07/25 - 22/07/31|[HHR-WEEK2](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/2Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK2](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-07/Week2.md)|[SYS-WEEK2](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/2%EC%A3%BC%EC%B0%A8%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|
 |22/08/01 - 22/08/07|[HHR-WEEK3](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/3Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK3](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/Week3.md)|[SYS-WEEK3](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week3.md)|
-|22/08/08 - 22/08/014|[HHR-WEEK4](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/4Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|||
+|22/08/08 - 22/08/014|[HHR-WEEK4](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/4Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)||[SYS-WEEK4](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week4.md)|
 
 ---
 
