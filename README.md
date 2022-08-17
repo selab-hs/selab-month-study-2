@@ -74,7 +74,7 @@
 |2022-08-14|[HHR-DAY27](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_14%EC%9D%BC.md)|[LSH-DAY27](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-14.md)|[SYS-휴가]||
 |2022-08-15|[HHR-DAY28](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_15%EC%9D%BC.md)|[LSH-DAY28](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08.15.md)|[SYS-휴가]||
 |2022-08-16||[LSH-DAY29](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-16.md)|[SYS-DAY29](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-16.md)||
-|2022-08-17||[LSH-DAY30](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-17.md)|[SYS-DAY30](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-17.md)||
+|2022-08-17||[LSH-DAY30](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-17.md)|[SYS-DAY30](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-17.md)|[YYUN-DAY1](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0817.md)||
 |2022-08-18|||||
 |2022-08-19|||||
 |2022-08-20|||||
@@ -168,7 +168,7 @@
 |Java Collection|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/Java_Collection.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Collection.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Collection-78ead0e6fcd0402a834f8f528c0a7d63)||
 |Java의 Object|||||
 |java 메모리 구조|🔴|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Memory_Structure.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/d2adf9c6a5fe495482edc1f41d85ef83)||
-|checked exception vs unchecked exception|||||
+|checked exception vs unchecked exception||||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/checkedException_VS_uncheckedException.md)|
 |Jpa 더티체킹|||||
 |Jpa 엔티티매니저|||||
 |Jpa 1차 캐시|||||
