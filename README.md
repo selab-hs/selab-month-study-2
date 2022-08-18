@@ -171,7 +171,7 @@
 |checked exception vs unchecked exception||||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/checkedException_VS_uncheckedException.md)|
 |Jpa 더티체킹|||||
 |Jpa 엔티티매니저|||||
-|Jpa 1차 캐시|||||
+|Jpa 1차 캐시||||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/JPA%201%EC%B0%A8%20%EC%BA%90%EC%8B%9C.md)|
 |오버라이딩 vs 오버로딩||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Overloading_VS_Overriding.md)|||
 |Java compile 과정|||||
 |java version별 차이점|||||
