@@ -77,7 +77,7 @@
 |2022-08-17|[HHR-DAY30](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_17%EC%9D%BC.md)|[LSH-DAY30](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-17.md)|[SYS-DAY30](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-17.md)|[YYUN-DAY1](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0817.md)|
 |2022-08-18|[HHR-DAY31](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_18%EC%9D%BC.md)|[LSH-DAY31](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-18.md)|[SYS-DAY31](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-18.md)|[YYUN-DAY2](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0818.md)|
 |2022-08-19|||[SYS-DAY32](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-19.md)||
-|2022-08-20|||||
+|2022-08-20|||[SYS-DAY33](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-20.md)||
 |2022-08-21|||||
 |2022-08-22|||||
 |2022-08-23|||||
@@ -124,7 +124,7 @@
 |RDB vs Nosql|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/NoSQL.md)||||
 |트랜잭션|||[🔵](https://chlorinated-alloy-2a8.notion.site/aa01b61202214e4a817a19138e7fd749)||
 |DDL, DML, DCL||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/DDL-DML-DCL.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DDL-DML-DCL-4161bd7958ab4a46a02bdd48b54e60a9)||
-|sql injection| | | |[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/SQL%20Injection.md)||
+|sql injection| | |[🔵](https://chlorinated-alloy-2a8.notion.site/SQL-Injection-dbdd9d544dd34a868d5eecac0a277afe)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/SQL%20Injection.md)||
 |정규화|||||
 
 ### Operate System
