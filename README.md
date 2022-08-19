@@ -6,9 +6,9 @@
 
 <div align="center">
 
-|     극락     |    황태구이 얌얌     |   리..리어카!      | 수원은 내 구역|                                         |
+|     극락     |    황태구이 얌얌     |   리..리어카!      | 수원은 내 구역|  제로  |
 | :-----------------------------------: | :-----------------: | :----------------: |:----------------: |:---------------------------------------:|
-| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://cdn.discordapp.com/attachments/817224906386571274/998916361449377872/KakaoTalk_20211221_233616844_02.jpg" height = "250" width="250"/>|<img src="http://file3.instiz.net/data/file3/2022/04/20/5/b/d/5bdbfa753e1ec8e28e1c83e46f56f623.jpg" width = "250" height = "250"/>|<img src="https://user-images.githubusercontent.com/54024213/180033873-15622ead-4d65-4c00-8b85-c2822256a72c.jpg">|<img src="https://avatars.githubusercontent.com/u/17813930?v=4" height = "250" width="250"/>|
+| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" height="150" width="200"/> |<img src="https://cdn.discordapp.com/attachments/817224906386571274/998916361449377872/KakaoTalk_20211221_233616844_02.jpg" height="150" width="200"/>|<img src="http://file3.instiz.net/data/file3/2022/04/20/5/b/d/5bdbfa753e1ec8e28e1c83e46f56f623.jpg" width ="200" height="150"/>|<img src="https://user-images.githubusercontent.com/54024213/180033873-15622ead-4d65-4c00-8b85-c2822256a72c.jpg">|<img src="https://avatars.githubusercontent.com/u/17813930?v=4" height="150" width="200"/>|
 |   [김동건](https://github.com/DongGeon0908) |   [황하림](https://github.com/HwangHarim) |   [이상호](https://github.com/LSH-3016)   |[신윤섭](https://github.com/F-UMI)   | [윤영](https://github.com/yunyoung1819)   |
 |열심히 극락코딩!!|할 거면 잘하자!!|고이기전에 탈출|하던 대로 열심히|               오늘 하루도 최선을 다했으면 푹 자도 됩니다!               |
 
@@ -74,8 +74,8 @@
 |2022-08-14|[HHR-DAY27](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_14%EC%9D%BC.md)|[LSH-DAY27](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-14.md)|[SYS-휴가]||
 |2022-08-15|[HHR-DAY28](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_15%EC%9D%BC.md)|[LSH-DAY28](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08.15.md)|[SYS-휴가]||
 |2022-08-16|[HHR-DAY29](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_16%EC%9D%BC.md)|[LSH-DAY29](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-16.md)|[SYS-DAY29](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-16.md)||
-|2022-08-17|[HHR-DAY30](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_17%EC%9D%BC.md)|[LSH-DAY30](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-17.md)|[SYS-DAY30](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-17.md)|[YYUN-DAY1](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0817.md)||
-|2022-08-18|[HHR-DAY31](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_18%EC%9D%BC.md)|[LSH-DAY31](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-18.md)|[SYS-DAY31](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-18.md)||
+|2022-08-17|[HHR-DAY30](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_17%EC%9D%BC.md)|[LSH-DAY30](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-17.md)|[SYS-DAY30](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-17.md)|[YYUN-DAY1](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0817.md)|
+|2022-08-18|[HHR-DAY31](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_18%EC%9D%BC.md)|[LSH-DAY31](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-18.md)|[SYS-DAY31](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-18.md)|[YYUN-DAY2](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0818.md)|
 |2022-08-19|||[SYS-DAY32](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-19.md)||
 |2022-08-20|||||
 |2022-08-21|||||
@@ -124,7 +124,7 @@
 |RDB vs Nosql|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/NoSQL.md)||||
 |트랜잭션|||[🔵](https://chlorinated-alloy-2a8.notion.site/aa01b61202214e4a817a19138e7fd749)||
 |DDL, DML, DCL||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/DDL-DML-DCL.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DDL-DML-DCL-4161bd7958ab4a46a02bdd48b54e60a9)||
-|sql injection|||||
+|sql injection| | | |[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/SQL%20Injection.md)||
 |정규화|||||
 
 ### Operate System
