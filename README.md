@@ -79,8 +79,8 @@
 |2022-08-19||[LSH-DAY32](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-19.md)|[SYS-DAY32](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-19.md)||
 |2022-08-20||[LSH-DAY33](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-20.md)|[SYS-DAY33](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-20.md)||
 |2022-08-21||[LSH-DAY34](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-21.md)|||
-|2022-08-22|||||
-|2022-08-23|||||
+|2022-08-22||LSH-휴가]|||
+|2022-08-23||[LSH-휴가]|||
 |2022-08-24|||||
 |2022-08-25|||||
 |2022-08-26|||||
