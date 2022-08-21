@@ -78,7 +78,7 @@
 |2022-08-18|[HHR-DAY31](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_18%EC%9D%BC.md)|[LSH-DAY31](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-18.md)|[SYS-DAY31](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-18.md)|[YYUN-DAY2](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0818.md)|
 |2022-08-19||[LSH-DAY32](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-19.md)|[SYS-DAY32](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-19.md)||
 |2022-08-20||[LSH-DAY33](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-20.md)|[SYS-DAY33](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-20.md)||
-|2022-08-21||[LSH-dAY34](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-21.md)|||
+|2022-08-21||[LSH-DAY34](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-21.md)|||
 |2022-08-22|||||
 |2022-08-23|||||
 |2022-08-24|||||
