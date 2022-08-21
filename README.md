@@ -76,9 +76,9 @@
 |2022-08-16|[HHR-DAY29](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_16%EC%9D%BC.md)|[LSH-DAY29](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-16.md)|[SYS-DAY29](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-16.md)||
 |2022-08-17|[HHR-DAY30](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_17%EC%9D%BC.md)|[LSH-DAY30](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-17.md)|[SYS-DAY30](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-17.md)|[YYUN-DAY1](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0817.md)|
 |2022-08-18|[HHR-DAY31](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_18%EC%9D%BC.md)|[LSH-DAY31](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-18.md)|[SYS-DAY31](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-18.md)|[YYUN-DAY2](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0818.md)|
-|2022-08-19|||[SYS-DAY32](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-19.md)||
-|2022-08-20|||[SYS-DAY33](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-20.md)||
-|2022-08-21|||||
+|2022-08-19||[LSH-DAY32](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-19.md)|[SYS-DAY32](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-19.md)||
+|2022-08-20||[LSH-DAY33](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-20.md)|[SYS-DAY33](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-20.md)||
+|2022-08-21||[LSH-dAY34](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-21.md)|||
 |2022-08-22|||||
 |2022-08-23|||||
 |2022-08-24|||||
@@ -113,6 +113,7 @@
 | Cookie vs Session  |[🔵](https://magnetic-crow-9f1.notion.site/VS-c26b8c2c071544b8a38622158a4ade99)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Cookie_VS_Session.md)|[🔴](https://chlorinated-alloy-2a8.notion.site/Cookie-VS-Session-f689c1e2316e48008eb85351419364a6)||
 |http 1,2,3|||||
 |cast (broadcast, unicast, multicast 등)|||||
+|IPv4 vs IPv6|||||
 
 ### Database
 
@@ -126,6 +127,7 @@
 |DDL, DML, DCL||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/DDL-DML-DCL.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DDL-DML-DCL-4161bd7958ab4a46a02bdd48b54e60a9)||
 |sql injection| | |[🔵](https://chlorinated-alloy-2a8.notion.site/SQL-Injection-dbdd9d544dd34a868d5eecac0a277afe)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/SQL%20Injection.md)||
 |정규화|||||
+|db view|||||
 
 ### Operate System
 
@@ -141,6 +143,7 @@
 |스케줄링 기법|||||
 |커널|||||
 |Critical Section|||||
+|시스템 콜|||||
 
 ### Spring
 
@@ -159,6 +162,7 @@
 |spring vs spring boot|||||
 |Dispatcher Servlet|||||
 |maven, gradle|||||
+|라이브러리 vs 프레임워크|||||
 
 ### Java
 
@@ -177,6 +181,7 @@
 |java version별 차이점|||||
 |mutable vs immutable|||||
 |인터페이스와 추상클래스|||||
+|스네이크, 파스칼, 카멜 케이스|||||
 
 ### Algorithm
 
@@ -187,6 +192,13 @@
 |이진 탐색|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Algorithm/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Binary_Search.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Binary-Search-e4558c5addd34f5babaf436565f3b00a)||
 |tree|||||
 |동적 계획법 dp|||||
+|O() 표기법|||||
+
+## 디자인 패턴
+|     주제     |황하림|이상호|신윤섭|윤영|
+|:----------:|:---:|:---:|:---:|:---:|
+|싱글톤 패턴|||||
+|상태 패턴|||||
 
 ### Etc
 
@@ -202,6 +214,8 @@
 |비IT 동료와 효율적인 의사소통을 하기 위한 방법|||||
 |다른팀과 협업시 갈등이 있었을 떄 어떤식으로 해결했는지|||||
 |java와 c언어의 차이|||||
+|이루고 싶은 목표|||||
+
 
 
 <!--
