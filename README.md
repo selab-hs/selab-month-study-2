@@ -81,7 +81,7 @@
 |2022-08-20|[HHR-DAY33](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_20%EC%9D%BC.md)|[LSH-DAY33](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-20.md)|[SYS-DAY33](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-20.md)|[YYUN-DAY4](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0820.md)|
 |2022-08-21|[HHR-DAY34](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_21%EC%9D%BC.md)|[LSH-DAY34](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-21.md)|[SYS-DAY34](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-21.md)| [YYUN-DAY5](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0821.md)|
 |2022-08-22|[HHR-DAY35](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_22%EC%9D%BC.md)|LSH-휴가|[SYS-DAY35](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-22.md)||
-|2022-08-23||LSH-휴가|||
+|2022-08-23|HHR-휴가|LSH-휴가|||
 |2022-08-24|||||
 |2022-08-25|||||
 |2022-08-26|||||
@@ -253,3 +253,4 @@
 |2022-08-17|윤영|초기생성|5|
 |2022-08-22|이상호|여름휴가|4|
 |2022-08-23|이상호|여름휴가|3|
+|2022-08-23|황하림|지인약속|1|
