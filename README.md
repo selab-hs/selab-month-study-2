@@ -80,7 +80,7 @@
 |2022-08-19||[LSH-DAY32](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-19.md)|[SYS-DAY32](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-19.md)| [YYUN-DAY3](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0819.md)|
 |2022-08-20||[LSH-DAY33](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-20.md)|[SYS-DAY33](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-20.md)|[YYUN-DAY4](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0820.md)|
 |2022-08-21||[LSH-DAY34](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-21.md)|[SYS-DAY34](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-21.md)| [YYUN-DAY5](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0821.md)|
-|2022-08-22||LSH-휴가|[SYS-DAY35]((https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-22.md))||
+|2022-08-22||LSH-휴가|[SYS-DAY35](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-22.md)||
 |2022-08-23||LSH-휴가|||
 |2022-08-24|||||
 |2022-08-25|||||
