@@ -120,7 +120,7 @@
 
 |         주제        |황하림|이상호|신윤섭|윤영|
 |:------------------:|:---:|:---:|:---:|:---:|
-|DB Index|||||
+|DB Index|||[🔵](https://chlorinated-alloy-2a8.notion.site/DB-INDEX-e0dfe76b30ac45618b7b0226e59332d2)||
 |Database Engine|||||
 |Redis|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/Redis.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/Redis.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Redis-Remote-Dictonary-Server-66494b1ab67a429f89e2d16912a4ffa6)||
 |RDB vs Nosql|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/NoSQL.md)||||
@@ -140,7 +140,7 @@
 |동기 vs 비동기|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EB%8F%99%EA%B8%B0%EC%99%80_%EB%B9%84%EB%8F%99%EA%B8%B0.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Synchronous_VS_Asynchronous.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/VS-68ce3ee0361840809bba7ba5c2848f94)||
 |concurrency vs parallelism|[🔴](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/concurrency_vs_parallelism.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/ConCurrency_VS_Parallelism.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Concurrency-VS-Parallelism-ea108db15136486e94c6ffc886dbb9ce)||
 |캐시|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Operate_System/%EC%BA%90%EC%8B%9C.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Cache.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Cache-e71a5de396c14f6186436219ef1ec477)||
-|RAID|||||
+|RAID|||[🔴](https://chlorinated-alloy-2a8.notion.site/SQL-c2e1a93427564f1d99a62f9f234a3647)||
 |스케줄링 기법|||||
 |커널|||||
 |Critical Section|||||
