@@ -84,8 +84,8 @@
 |2022-08-23|HHR-휴가|LSH-휴가|[SYS-DAY36](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-23.md)||
 |2022-08-24|||[SYS-DAY37](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-24.md)||
 |2022-08-25|||[SYS-DAY38](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-25.md)||
-|2022-08-26||||
-|2022-08-27|||||
+|2022-08-26|||[SYS-DAY39](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-26.md)||
+|2022-08-27|||[SYS-DAY39](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-27.md)||
 |2022-08-28|||||
 |2022-08-29|||||
 |2022-08-30|||||
