@@ -82,11 +82,11 @@
 |2022-08-21|[HHR-DAY34](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_21%EC%9D%BC.md)|[LSH-DAY34](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-21.md)|[SYS-DAY34](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-21.md)| [YYUN-DAY5](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0821.md)|
 |2022-08-22|[HHR-DAY35](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/8%EC%9B%94/8%EC%9B%94_22%EC%9D%BC.md)|LSH-휴가|[SYS-DAY35](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-22.md)||
 |2022-08-23|HHR-휴가|LSH-휴가|[SYS-DAY36](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-23.md)||
-|2022-08-24|||[SYS-DAY37](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-24.md)||
-|2022-08-25|||[SYS-DAY38](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-25.md)||
-|2022-08-26|||[SYS-DAY39](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-26.md)||
-|2022-08-27|||[SYS-DAY40](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-27.md)||
-|2022-08-28|||||
+|2022-08-24||[LSH-DAY37](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-24.md)|[SYS-DAY37](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-24.md)||
+|2022-08-25||[LSH-DAY38](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-25.md)|[SYS-DAY38](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-25.md)||
+|2022-08-26||[LSH-DAY39](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08.26.md)|[SYS-DAY39](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-26.md)||
+|2022-08-27||[LSH-DAY40](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-27.md)|[SYS-DAY40](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-27.md)||
+|2022-08-28||[LSH-DAY41](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-28.md)|||
 |2022-08-29|||||
 |2022-08-30|||||
 |2022-08-31|||||
