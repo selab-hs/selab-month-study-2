@@ -110,7 +110,7 @@
 |      로드밸런스         ||[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Load_Balancing.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Load-Balancer-859aae94ee574c0fa7a6706bd5f85f78)||
 | IP, TCP, UDP, HTTP |||||
 |        라우터         |||||
-|   HTTP vs HTTPS    |||||
+|   HTTP vs HTTPS    |||[🔴](https://chlorinated-alloy-2a8.notion.site/Http-vs-Https-468cbc268703441d9194d35b2984f3dc)||
 | Cookie vs Session  |[🔵](https://magnetic-crow-9f1.notion.site/VS-c26b8c2c071544b8a38622158a4ade99)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Cookie_VS_Session.md)|[🔴](https://chlorinated-alloy-2a8.notion.site/Cookie-VS-Session-f689c1e2316e48008eb85351419364a6)||
 |http 1,2,3|||||
 |cast (broadcast, unicast, multicast 등)|||||
