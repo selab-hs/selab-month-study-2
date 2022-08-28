@@ -126,7 +126,7 @@
 |RDB vs Nosql|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/NoSQL.md)||||
 |트랜잭션|||[🔵](https://chlorinated-alloy-2a8.notion.site/aa01b61202214e4a817a19138e7fd749)||
 |DDL, DML, DCL||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/DDL-DML-DCL.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DDL-DML-DCL-4161bd7958ab4a46a02bdd48b54e60a9)||
-|sql injection| | |[🔵](https://chlorinated-alloy-2a8.notion.site/SQL-Injection-dbdd9d544dd34a868d5eecac0a277afe)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/SQL%20Injection.md)||
+|sql injection| |[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/SQL_Injection.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/SQL-Injection-dbdd9d544dd34a868d5eecac0a277afe)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/SQL%20Injection.md)||
 |정규화|||||
 |db view|||||
 
