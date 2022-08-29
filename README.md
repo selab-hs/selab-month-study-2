@@ -87,7 +87,7 @@
 |2022-08-26||[LSH-DAY39](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08.26.md)|[SYS-DAY39](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-26.md)|[YYUN-DAY10](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0826.md)|
 |2022-08-27||[LSH-DAY40](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-27.md)|[SYS-DAY40](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-27.md)|[YYUN-DAY11](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0827.md)|
 |2022-08-28||[LSH-DAY41](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/08-28.md)|[SYS-DAY41](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/08/08-28.md)|[YYUN-DAY12](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0828.md)|
-|2022-08-29|||||
+|2022-08-29||||[YYUN-DAY13](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-08/0829.md)|
 |2022-08-30|||||
 |2022-08-31|||||
 <!--
