@@ -102,7 +102,7 @@
  
 |일자|황하림|이상호|신윤섭|윤영|
 |:---:|:---:|:---:|:---:|:--------------------------------------------------------------------------------------------------:|
-|2022-09-01|||[SYS-DAY45](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-01.md)||
+|2022-09-01|||[SYS-DAY45](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-01.md)|[YYUN-DAY14](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-09/0901.md)|
 |2022-09-02|||||
 |2022-09-03|||||
 |2022-09-04|||||
@@ -153,7 +153,7 @@
 |Database Engine|||||
 |Redis|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/Redis.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/Redis.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Redis-Remote-Dictonary-Server-66494b1ab67a429f89e2d16912a4ffa6)||
 |RDB vs Nosql|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/NoSQL.md)||||
-|트랜잭션|||[🔵](https://chlorinated-alloy-2a8.notion.site/aa01b61202214e4a817a19138e7fd749)||
+|트랜잭션|||[🔵](https://chlorinated-alloy-2a8.notion.site/aa01b61202214e4a817a19138e7fd749)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/DB%20Transaction.md)|
 |DDL, DML, DCL||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/DDL-DML-DCL.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DDL-DML-DCL-4161bd7958ab4a46a02bdd48b54e60a9)||
 |sql injection| |[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/SQL_Injection.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/SQL-Injection-dbdd9d544dd34a868d5eecac0a277afe)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/SQL%20Injection.md)||
 |정규화|||||
