@@ -103,7 +103,7 @@
 |일자|황하림|이상호|신윤섭|윤영|
 |:---:|:---:|:---:|:---:|:--------------------------------------------------------------------------------------------------:|
 |2022-09-01|[HHR-DAY45](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_1%EC%9D%BC.md)|[LSH-DAY45](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-01.md)|[SYS-DAY45](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-01.md)|[YYUN-DAY14](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-09/0901.md)|
-|2022-09-02|[HHR-DAY46](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_2%EC%9D%BC.md)||||
+|2022-09-02|[HHR-DAY46](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_2%EC%9D%BC.md)|||[YYUN-DAY14](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-09/0902.md)|
 |2022-09-03|||||
 |2022-09-04|||||
 |2022-09-05|||||
@@ -188,7 +188,7 @@
 |Spring MVC|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringMVC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Spring_MVC_Process.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)||
 |본인이 생각하는 스프링의 장점|||||
 |트랜잭션|||||
-|filter, intercepter. aop|||||
+|filter, intercepter. aop||||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/filter_interceptor_aop.md)|
 |spring vs spring boot|||||
 |Dispatcher Servlet|||||
 |maven, gradle|||||
