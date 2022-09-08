@@ -138,12 +138,12 @@
 |      REST API      ||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Rest_API.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/REST-API-Representational-State-Transfer-API-4895ba27d5f44e7a82dc99b5110224bc)||
 |      로드밸런스         ||[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Load_Balancing.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Load-Balancer-859aae94ee574c0fa7a6706bd5f85f78)||
 | IP, TCP, UDP, HTTP ||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/IP_TCP_UDP_HTTP.md)|||
-|        라우터         |||||
+|        라우터         |||[🔴]||
 |   HTTP vs HTTPS    |||[🔴](https://chlorinated-alloy-2a8.notion.site/Http-vs-Https-468cbc268703441d9194d35b2984f3dc)||
 | Cookie vs Session  |[🔵](https://magnetic-crow-9f1.notion.site/VS-c26b8c2c071544b8a38622158a4ade99)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Cookie_VS_Session.md)|[🔴](https://chlorinated-alloy-2a8.notion.site/Cookie-VS-Session-f689c1e2316e48008eb85351419364a6)|[🔴](https://yunyoung1819.tistory.com/196)|
-|http 1,2,3|||||
-|cast (broadcast, unicast, multicast 등)|||||
-|IPv4 vs IPv6|||||
+|http 1,2,3|||[🔵](https://chlorinated-alloy-2a8.notion.site/Http-1-2-3-73331061be0e4d47af96aaa303fb1e65)||
+|cast (broadcast, unicast, multicast 등)|||[🔴]||
+|IPv4 vs IPv6|||[🔴]||
 
 ### Database
 
@@ -156,8 +156,8 @@
 |트랜잭션|||[🔵](https://chlorinated-alloy-2a8.notion.site/aa01b61202214e4a817a19138e7fd749)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/DB%20Transaction.md)|
 |DDL, DML, DCL||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/DDL-DML-DCL.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DDL-DML-DCL-4161bd7958ab4a46a02bdd48b54e60a9)||
 |sql injection| |[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/SQL_Injection.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/SQL-Injection-dbdd9d544dd34a868d5eecac0a277afe)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/SQL%20Injection.md)||
-|정규화|||||
-|db view|||||
+|정규화|||[🔵](https://chlorinated-alloy-2a8.notion.site/DB-0e3a0e0a04f54522a8edccf337ad1bfb)||
+|db view|||[🔵](https://chlorinated-alloy-2a8.notion.site/DB-VIEW-MySql-4165c76791414d4a9950289550467688)||
 
 ### Operate System
 
@@ -187,12 +187,12 @@
 |spring vs EJB|||||
 |Spring MVC|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringMVC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Spring_MVC_Process.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)||
 |본인이 생각하는 스프링의 장점|||||
-|트랜잭션|||||
+|트랜잭션|||🔴||
 |filter, intercepter. aop||||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/filter_interceptor_aop.md)|
 |spring vs spring boot|||||
-|Dispatcher Servlet|||||
-|maven, gradle|||||
-|라이브러리 vs 프레임워크|||||
+|Dispatcher Servlet|||[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)||
+|maven, gradle|||[🔵](https://chlorinated-alloy-2a8.notion.site/Maven-VS-Gradle-9380bb9f5a884c95979a4d221d76ff35)||
+|라이브러리 vs 프레임워크|||[🔵](https://www.notion.so/VS-1f91a5c0f1cf4282ac760a6bf7e64759)||
 
 ### Java
 
