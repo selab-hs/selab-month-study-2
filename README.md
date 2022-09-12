@@ -109,11 +109,11 @@
 |2022-09-05|[HHR-DAY49](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_5%EC%9D%BC.md)|[LSH-DAY49](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-05.md)|[SYS-DAY49](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-05.md)||
 |2022-09-06|[HHR-DAY50](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_6%EC%9D%BC.md)||[SYS-DAY50](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-06.md)||
 |2022-09-07|[HHR-DAY51](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_7%EC%9D%BC.md)||[SYS-DAY51](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-07.md)||
-|2022-09-08|[HHR-DAY52](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_8%EC%9D%BC.md)||[SYS-DAY51](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-08.md)||
+|2022-09-08|[HHR-DAY52](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_8%EC%9D%BC.md)||[SYS-DAY52](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-08.md)||
 |2022-09-09|||||
 |2022-09-10|||||
-|2022-09-11|[HHR-DAY53](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_11%EC%9D%BC.md)||||
-|2022-09-12|||||
+|2022-09-11|[HHR-DAY53](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_11%EC%9D%BC.md)||[SYS-DAY54](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-11.md)||
+|2022-09-12|||[SYS-DAY55](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-12.md)||
 |2022-09-13|||||
 |2022-09-14|||||
 |2022-09-15|||||
