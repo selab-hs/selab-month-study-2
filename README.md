@@ -271,7 +271,7 @@
 |22/08/15 - 22/08/21||[LSH-WEEK5](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/Week5.md)|[SYS-WEEK5](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week5.md)||
 |22/08/22 - 22/08/28||[LSH-WEEK6](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/Week6.md)|[SYS-WEEK6](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week6.md)|[YYUN-WEEK6](https://yunyoung1819.tistory.com/193)|
 |22/08/29 - 22/09/04||[LSH-WEEK7](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week7.md)|[SYS-WEEK7](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week7.md)||
-|22/09/05 - 22/09/11|||[SYS-WEEK8](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week7.md)||
+|22/09/05 - 22/09/11|||[SYS-WEEK8](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week8.md)||
 ---
 
 ### 💕 휴가권 (5일)
