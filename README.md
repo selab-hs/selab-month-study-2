@@ -113,8 +113,8 @@
 |2022-09-09|||||
 |2022-09-10|||||
 |2022-09-11|[HHR-DAY53](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_11%EC%9D%BC.md)||[SYS-DAY55](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-11.md)|[YYUN-DAY22](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-09/0911.md)|
-|2022-09-12||[LSH-DAY56](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-12.md)|[SYS-DAY56](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-12.md)|[YYUN-DAY23](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-09/0912.md)|
-|2022-09-13||[LSH-DAY57](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-13.md)||[YYUN-DAY24](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-09/0913.md)|
+|2022-09-12|[HHR-DAY54](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_12%EC%9D%BC.md)|[LSH-DAY56](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-12.md)|[SYS-DAY56](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-12.md)|[YYUN-DAY23](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-09/0912.md)|
+|2022-09-13|[HHR-DAY55](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_13%EC%9D%BC.md)|[LSH-DAY57](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-13.md)||[YYUN-DAY24](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-09/0913.md)|
 |2022-09-14|||||
 |2022-09-15|||||
 |2022-09-16|||||
