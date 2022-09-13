@@ -158,7 +158,7 @@
 |Database Engine|||||
 |Redis|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/Redis.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/Redis.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Redis-Remote-Dictonary-Server-66494b1ab67a429f89e2d16912a4ffa6)||
 |RDB vs Nosql|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/NoSQL.md)||||
-|트랜잭션|||[🔵](https://chlorinated-alloy-2a8.notion.site/aa01b61202214e4a817a19138e7fd749)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/DB%20Transaction.md)|
+|트랜잭션|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98(Transaction).md)||[🔵](https://chlorinated-alloy-2a8.notion.site/aa01b61202214e4a817a19138e7fd749)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/DB%20Transaction.md)|
 |DDL, DML, DCL||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/DDL-DML-DCL.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DDL-DML-DCL-4161bd7958ab4a46a02bdd48b54e60a9)||
 |sql injection| |[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/SQL_Injection.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/SQL-Injection-dbdd9d544dd34a868d5eecac0a277afe)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/SQL%20Injection.md)||
 |정규화|||[🔵](https://chlorinated-alloy-2a8.notion.site/DB-0e3a0e0a04f54522a8edccf337ad1bfb)||
@@ -172,7 +172,7 @@
 |교착상태||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/DeadLock.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Deadlock-42d067153b2e4f2d9c78e724fd5d5a48)||
 |세마포어와 뮤텍스||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Semaphore_VS_Mutex.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Semaphore-Mutex-8a55e756bcd54e5699607e926062dc32)||
 |동기 vs 비동기|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EB%8F%99%EA%B8%B0%EC%99%80_%EB%B9%84%EB%8F%99%EA%B8%B0.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Synchronous_VS_Asynchronous.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/VS-68ce3ee0361840809bba7ba5c2848f94)||
-|concurrency vs parallelism|[🔴](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/concurrency_vs_parallelism.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/ConCurrency_VS_Parallelism.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Concurrency-VS-Parallelism-ea108db15136486e94c6ffc886dbb9ce)||
+|concurrency vs parallelism|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/concurrency_vs_parallelism.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/ConCurrency_VS_Parallelism.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Concurrency-VS-Parallelism-ea108db15136486e94c6ffc886dbb9ce)||
 |캐시|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Operate_System/%EC%BA%90%EC%8B%9C.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Cache.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Cache-e71a5de396c14f6186436219ef1ec477)||
 |RAID||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/RAID.md)|[🔴](https://chlorinated-alloy-2a8.notion.site/SQL-c2e1a93427564f1d99a62f9f234a3647)||
 |스케줄링 기법|||||
@@ -208,9 +208,9 @@
 |Java의 Object|||||
 |java 메모리 구조|🔴|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Memory_Structure.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/d2adf9c6a5fe495482edc1f41d85ef83)||
 |checked exception vs unchecked exception|||[🔵](https://chlorinated-alloy-2a8.notion.site/checked-exception-vs-unchecked-exception-ce0dc03eab9a4d1ca9ba77d3f8897c3b)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/checkedException_VS_uncheckedException.md)|
-|Jpa 더티체킹|||||
+|Jpa 더티체킹|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/JPA%20%EB%8D%94%ED%8B%B0%EC%B2%B4%ED%82%B9.md)||||
 |Jpa 엔티티매니저|||||
-|Jpa 1차 캐시|||[🔵](https://chlorinated-alloy-2a8.notion.site/JPA-1-cbbd6d466df342fba6eae8ffc37922b4)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/JPA%201%EC%B0%A8%20%EC%BA%90%EC%8B%9C.md)|
+|Jpa 1차 캐시|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/JPA_1%EC%B0%A8_%EC%BA%90%EC%8B%9C.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/JPA-1-cbbd6d466df342fba6eae8ffc37922b4)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/JPA%201%EC%B0%A8%20%EC%BA%90%EC%8B%9C.md)|
 |오버라이딩 vs 오버로딩||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Overloading_VS_Overriding.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Overloading-VS-Overriding-7c1f8a0c13534704bdbf4b56c20fe712)||
 |Java compile 과정|||||
 |java version별 차이점|||||
@@ -225,7 +225,7 @@
 |     정렬     |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%A0%95%EB%A0%AC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Sorting_Algorithm.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Sorting-3b2b2bd62df1473b9308c50201ca7913)||
 |시간 복잡도, 공간 복잡도||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Complexity.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/ec66b92c38314c3fb84ddd4c800c31e6)||
 |이진 탐색|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Algorithm/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Binary_Search.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Binary-Search-e4558c5addd34f5babaf436565f3b00a)||
-|tree|||||
+|tree|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Algorithm/%ED%8A%B8%EB%A6%AC.md)||||
 |동적 계획법 dp|||||
 |O() 표기법|||||
 
@@ -242,7 +242,7 @@
 |GIT|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/GIT.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Etc/GIT.md)                       |[🔵](https://github.com/F-UMI/TDL/blob/main/Topic/Git.md) ||
 |Call By Value와 Call By Reference||| [🔵](https://chlorinated-alloy-2a8.notion.site/Call-By-Value-Call-By-Reference-3942e4bc9ffb4dc399f3fbe784824a98) ||
 |Dto||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Etc/DTO.md)| [🔵](https://chlorinated-alloy-2a8.notion.site/DTO-Data-Transfer-Object-57b962cce6a14facb1e598c3cc1bc09f)||
-|객체지향 vs 절차지향||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Etc/Procedural_VS_Object_Oriented.md)|||
+|객체지향 vs 절차지향|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5VS%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Etc/Procedural_VS_Object_Oriented.md)|||
 |sdk와 api||||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Etc/SDK%20%EC%99%80%20API%20%EC%B0%A8%EC%9D%B4.md) |
 |개발자가 되고 싶은 이유|||||
 |좋은 개발자란 무엇일까요|||||
