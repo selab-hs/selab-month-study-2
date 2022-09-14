@@ -206,7 +206,7 @@
 |접근제한자, 생성자, SOLID|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90_%EC%83%9D%EC%84%B1%EC%9E%90_SOLID.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/AM-Contructor-SOLID.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Access-Modifier-Constructor-SOLID-b5725ffea98e4020ab4905c358f2be8a)||
 |Java Collection|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/Java_Collection.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Collection.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Collection-78ead0e6fcd0402a834f8f528c0a7d63)||
 |Java의 Object|||||
-|java 메모리 구조|🔴|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Memory_Structure.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/d2adf9c6a5fe495482edc1f41d85ef83)||
+|java 메모리 구조|🔴|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Memory_Structure.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/d2adf9c6a5fe495482edc1f41d85ef83)|[🔵](https://yunyoung1819.tistory.com/197)|
 |checked exception vs unchecked exception|||[🔵](https://chlorinated-alloy-2a8.notion.site/checked-exception-vs-unchecked-exception-ce0dc03eab9a4d1ca9ba77d3f8897c3b)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/checkedException_VS_uncheckedException.md)|
 |Jpa 더티체킹|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/JPA%20%EB%8D%94%ED%8B%B0%EC%B2%B4%ED%82%B9.md)||||
 |Jpa 엔티티매니저|||||
