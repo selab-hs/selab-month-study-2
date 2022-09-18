@@ -176,7 +176,7 @@
 |캐시|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Operate_System/%EC%BA%90%EC%8B%9C.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Cache.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Cache-e71a5de396c14f6186436219ef1ec477)||
 |RAID||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/RAID.md)|[🔴](https://chlorinated-alloy-2a8.notion.site/SQL-c2e1a93427564f1d99a62f9f234a3647)||
 |스케줄링 기법|||||
-|커널|||||
+|커널|||[🔵](https://chlorinated-alloy-2a8.notion.site/Kernel-2eb00f7a00874927bc1f5cb90470c89e)||
 |Critical Section|||||
 |시스템 콜|||||
 
