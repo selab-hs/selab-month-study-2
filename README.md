@@ -227,7 +227,7 @@
 |Java compile 과정|||||
 |java version별 차이점|||||
 |mutable vs immutable|||||
-|인터페이스와 추상클래스|||||
+|인터페이스와 추상클래스||||[🔵](https://yunyoung1819.tistory.com/198)|
 |스네이크, 파스칼, 카멜 케이스|||[🔵](https://chlorinated-alloy-2a8.notion.site/bed8d233bb554cc0813dc6ff2a1d0fae)||
 
 ### Algorithm
