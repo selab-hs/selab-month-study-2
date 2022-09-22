@@ -190,7 +190,7 @@
 |스케줄링 기법||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Scheduling.md)|||
 |커널|||[🔵](https://chlorinated-alloy-2a8.notion.site/Kernel-2eb00f7a00874927bc1f5cb90470c89e)||
 |Critical Section|||||
-|시스템 콜||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/System_Call.md)|||
+|시스템 콜||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/System_Call.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/System-Call-9f130c73b0554b3ea14fe6ad5804ccd6)||
 
 ### Spring
 
