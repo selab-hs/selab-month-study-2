@@ -124,8 +124,8 @@
 |2022-09-20||[LSH-DAY64](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-20.md)|[SYS-DAY64](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-20.md)||
 |2022-09-21||[LSH-DAY65](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-21.md)|[SYS-DAY65](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-21.md)||
 |2022-09-22|||[SYS-DAY66](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-22.md)||
-|2022-09-23|||||
-|2022-09-24|||||
+|2022-09-23|||[SYS-DAY67](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-23.md)||
+|2022-09-24|||[SYS-DAY68](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-24.md)||
 |2022-09-25|||||
 |2022-09-26|||||
 |2022-09-27|||||
