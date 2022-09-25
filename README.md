@@ -154,7 +154,7 @@
 |        DNS         |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/DNS.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/DNS.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DNS-Domain-Name-System-d073f997744d4e8ab628fc72a15154d1)||
 |      REST API      ||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Rest_API.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/REST-API-Representational-State-Transfer-API-4895ba27d5f44e7a82dc99b5110224bc)||
 |      로드밸런스         ||[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Load_Balancing.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Load-Balancer-859aae94ee574c0fa7a6706bd5f85f78)||
-| IP, TCP, UDP, HTTP ||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/IP_TCP_UDP_HTTP.md)|||
+| IP, TCP, UDP, HTTP ||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/IP_TCP_UDP_HTTP.md)|🔴||
 |        라우터         |||🔴||
 |   HTTP vs HTTPS    |||[🔵](https://chlorinated-alloy-2a8.notion.site/Http-vs-Https-468cbc268703441d9194d35b2984f3dc)||
 | Cookie vs Session  |[🔵](https://magnetic-crow-9f1.notion.site/VS-c26b8c2c071544b8a38622158a4ade99)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Cookie_VS_Session.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Cookie-VS-Session-f689c1e2316e48008eb85351419364a6)|[🔴](https://yunyoung1819.tistory.com/196)|
@@ -187,7 +187,7 @@
 |concurrency vs parallelism|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/concurrency_vs_parallelism.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/ConCurrency_VS_Parallelism.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Concurrency-VS-Parallelism-ea108db15136486e94c6ffc886dbb9ce)||
 |캐시|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Operate_System/%EC%BA%90%EC%8B%9C.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Cache.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Cache-e71a5de396c14f6186436219ef1ec477)||
 |RAID||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/RAID.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/SQL-c2e1a93427564f1d99a62f9f234a3647)||
-|스케줄링 기법||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Scheduling.md)|||
+|스케줄링 기법||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/Scheduling.md)|🔴||
 |커널|||[🔵](https://chlorinated-alloy-2a8.notion.site/Kernel-2eb00f7a00874927bc1f5cb90470c89e)||
 |Critical Section|||||
 |시스템 콜||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/System_Call.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/System-Call-9f130c73b0554b3ea14fe6ad5804ccd6)||
