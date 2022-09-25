@@ -205,7 +205,7 @@
 |Spring MVC|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringMVC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Spring_MVC_Process.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)||
 |본인이 생각하는 스프링의 장점|||||
 |트랜잭션|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringTransaction.md)||🔴||
-|filter, intercepter. aop|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/Filter_Interceptor_AOp.md)|||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/filter_interceptor_aop.md)|
+|filter, intercepter. aop|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/Filter_Interceptor_AOp.md)||🔴|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/filter_interceptor_aop.md)|
 |spring vs spring boot|||||
 |Dispatcher Servlet|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/Dispatcher_Servlet.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)||
 |maven, gradle|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/MavenVSGradle.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/Maven-VS-Gradle-9380bb9f5a884c95979a4d221d76ff35)||
@@ -220,7 +220,7 @@
 |Java의 Object|||||
 |java 메모리 구조|🔴|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Memory_Structure.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/d2adf9c6a5fe495482edc1f41d85ef83)|[🔵](https://yunyoung1819.tistory.com/197)|
 |checked exception vs unchecked exception|||[🔵](https://chlorinated-alloy-2a8.notion.site/checked-exception-vs-unchecked-exception-ce0dc03eab9a4d1ca9ba77d3f8897c3b)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/checkedException_VS_uncheckedException.md)|
-|Jpa 더티체킹|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/JPA%20%EB%8D%94%ED%8B%B0%EC%B2%B4%ED%82%B9.md)||||
+|Jpa 더티체킹|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/JPA%20%EB%8D%94%ED%8B%B0%EC%B2%B4%ED%82%B9.md)||🔴||
 |Jpa 엔티티매니저|||||
 |Jpa 1차 캐시|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/JPA_1%EC%B0%A8_%EC%BA%90%EC%8B%9C.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/JPA-1-cbbd6d466df342fba6eae8ffc37922b4)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/JPA%201%EC%B0%A8%20%EC%BA%90%EC%8B%9C.md)|
 |오버라이딩 vs 오버로딩||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Overloading_VS_Overriding.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Overloading-VS-Overriding-7c1f8a0c13534704bdbf4b56c20fe712)||
@@ -237,7 +237,7 @@
 |     정렬     |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%A0%95%EB%A0%AC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Sorting_Algorithm.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Sorting-3b2b2bd62df1473b9308c50201ca7913)||
 |시간 복잡도, 공간 복잡도||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Complexity.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/ec66b92c38314c3fb84ddd4c800c31e6)||
 |이진 탐색|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Algorithm/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Binary_Search.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Binary-Search-e4558c5addd34f5babaf436565f3b00a)||
-|tree|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Algorithm/%ED%8A%B8%EB%A6%AC.md)||||
+|tree|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Algorithm/%ED%8A%B8%EB%A6%AC.md)||🔴||
 |동적 계획법 dp|||||
 |O() 표기법|||||
 
