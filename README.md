@@ -255,7 +255,7 @@
 |Call By Value와 Call By Reference||| [🔵](https://chlorinated-alloy-2a8.notion.site/Call-By-Value-Call-By-Reference-3942e4bc9ffb4dc399f3fbe784824a98) ||
 |Dto||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Etc/DTO.md)| [🔵](https://chlorinated-alloy-2a8.notion.site/DTO-Data-Transfer-Object-57b962cce6a14facb1e598c3cc1bc09f)||
 |객체지향 vs 절차지향|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5VS%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Etc/Procedural_VS_Object_Oriented.md)|||
-|sdk와 api||||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Etc/SDK%20%EC%99%80%20API%20%EC%B0%A8%EC%9D%B4.md) |
+|sdk와 api|||[🔵](https://chlorinated-alloy-2a8.notion.site/SDK-API-597bd5b3d6bd4a1fa9274dbd3eb8da96)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Etc/SDK%20%EC%99%80%20API%20%EC%B0%A8%EC%9D%B4.md) |
 |개발자가 되고 싶은 이유|||||
 |좋은 개발자란 무엇일까요|||||
 |비IT 동료와 효율적인 의사소통을 하기 위한 방법|||||
