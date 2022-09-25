@@ -285,6 +285,7 @@
 |22/08/29 - 22/09/04|[HHR-WEEK7](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/7Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK7](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week7.md)|[SYS-WEEK7](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week7.md)||
 |22/09/05 - 22/09/11|[HHR-WEEK8](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/8Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)||[SYS-WEEK8](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week8.md)||
 |22/09/12 - 22/09/18|||[SYS-WEEK9](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week9.md)||
+|22/09/19 - 22/09/25|||||
 ---
 
 ### 💕 휴가권 (5일)
