@@ -126,8 +126,8 @@
 |2022-09-22|[HHR-DAY66](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_22%EC%9D%BC.md)|[LSH-DAY66](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-22.md)|[SYS-DAY66](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-22.md)||
 |2022-09-23|[HHR-DAY67](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_23%EC%9D%BC.md)|[LSH-DAY67](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-23.md)|[SYS-DAY67](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-23.md)||
 |2022-09-24|[HHR-DAY68](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_24%EC%9D%BC.md)|[LSH-DAY68](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-24.md)|[SYS-DAY68](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-24.md)||
-|2022-09-25|[HHR-DAY69](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_25%EC%9D%BC.md)|[LSH-DAY69](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-25.md)|[SYS-DAY69](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-24.md)||
-|2022-09-26|[HHR-DAY70]||||
+|2022-09-25|[HHR-DAY69](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_25%EC%9D%BC.md)|[LSH-DAY69](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-25.md)|[SYS-DAY69](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-25.md)||
+|2022-09-26|[HHR-DAY70]||[SYS-DAY70](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-26.md)||
 |2022-09-27|||||
 |2022-09-28|||||
 |2022-09-29|||||
@@ -285,7 +285,7 @@
 |22/08/29 - 22/09/04|[HHR-WEEK7](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/7Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK7](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week7.md)|[SYS-WEEK7](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week7.md)||
 |22/09/05 - 22/09/11|[HHR-WEEK8](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/8Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK8](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week8.md)|[SYS-WEEK8](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week8.md)||
 |22/09/12 - 22/09/18|[HHR-WEEK9]|[LSH-WEEK9](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week9.md)|[SYS-WEEK9](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week9.md)||
-|22/09/19 - 22/09/25|[HHR-WEEK10]|[LSH-WEEK10](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week10.md)|||
+|22/09/19 - 22/09/25|[HHR-WEEK10]|[LSH-WEEK10](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week10.md)|[SYS-WEEK10](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week10.md)||
 ---
 
 ### 💕 휴가권 (5일)
