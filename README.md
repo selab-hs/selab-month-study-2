@@ -128,7 +128,7 @@
 |2022-09-24|[HHR-DAY68](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_24%EC%9D%BC.md)|[LSH-DAY68](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-24.md)|[SYS-DAY68](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-24.md)||
 |2022-09-25|[HHR-DAY69](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_25%EC%9D%BC.md)|[LSH-DAY69](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-25.md)|[SYS-DAY69](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-25.md)||
 |2022-09-26|[HHR-DAY70]||[SYS-DAY70](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-26.md)||
-|2022-09-27|||||
+|2022-09-27|||[SYS-DAY71](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-27.md)||
 |2022-09-28|||||
 |2022-09-29|||||
 |2022-09-30|||||
