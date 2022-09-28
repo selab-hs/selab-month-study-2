@@ -197,7 +197,7 @@
 |         주제        |황하림|이상호|신윤섭|윤영|
 |:------------------:|:---:|:---:|:---:|:---:|
 |IOC, DI, AOP|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/AOP_DI_IoC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/IOC-DI-AOP.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/IoC-DI-AOP-64c9e6298c49423680d7a0ef9e6af6ef)||
-|bean vs component|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/bean_VS_component.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Been_VS_Component.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Bean-Component-6597956a7ed5474b8e92a0170b0bb882)||
+|bean vs component|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/bean_VS_component.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Been_VS_Component.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Bean-Component-6597956a7ed5474b8e92a0170b0bb882)|[🔵](https://yunyoung1819.tistory.com/199)|
 |스프링의 동작 과정||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Spring_MVC_Process.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)||
 |스프링 컨테이너|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringContainer.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-Container-793ef526e8cb465da76fc1c8d6f20df3)||
 |spring servlet|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringServlet.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Servlet.md)|[🔴]()||
