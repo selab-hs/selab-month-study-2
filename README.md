@@ -129,8 +129,8 @@
 |2022-09-25|[HHR-DAY69](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/9%EC%9B%94/9%EC%9B%94_25%EC%9D%BC.md)|[LSH-DAY69](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-25.md)|[SYS-DAY69](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-25.md)|[YYUN-DAY36](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-09/0925.md)|
 |2022-09-26|[HHR-DAY70]|[LSH-DAY69](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-26.md)|[SYS-DAY70](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-26.md)|[YYUN-DAY37](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-09/0926.md)|
 |2022-09-27||[LSH-DAY69](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-27.md)|[SYS-DAY71](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-27.md)|[YYUN-DAY38](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-09/0927.md)|
-|2022-09-28||[LSH-DAY69](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-28.md)|||
-|2022-09-29||[LSH-DAY69](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-29.md)|||
+|2022-09-28||[LSH-DAY69](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-28.md)|[SYS-DAY72](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-28.md)||
+|2022-09-29||[LSH-DAY69](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/09-29.md)|[SYS-DAY73](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/09/09-29.md)||
 |2022-09-30|||||
 
 
