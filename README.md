@@ -144,6 +144,8 @@
 </div>
 </details>
 
+|일자|황하림|이상호|신윤섭|
+|:---:|:---:|:---:|:---:|
 |2022-10-01|||[SYS-DAY75](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-01.md)||
 |2022-10-02|||[SYS-DAY76](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-02.md)||
 |2022-10-03|||||
