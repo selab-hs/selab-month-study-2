@@ -264,7 +264,7 @@
 |이진 탐색|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Algorithm/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Binary_Search.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Binary-Search-e4558c5addd34f5babaf436565f3b00a)||
 |tree|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Algorithm/%ED%8A%B8%EB%A6%AC.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/Tree-0e50f9b96d934581bca01a491e8daacc)||
 |동적 계획법 dp|||[🔵](https://chlorinated-alloy-2a8.notion.site/56ed4ace0863457097e730096b8a3523)||
-|O() 표기법|||||
+|O() 표기법||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Algorithm/Big-O.md)|||
 
 ## 디자인 패턴
 |     주제     |황하림|이상호|신윤섭|윤영|
