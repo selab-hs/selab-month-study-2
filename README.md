@@ -146,11 +146,11 @@
 
 |일자|황하림|이상호|신윤섭|윤영|
 |:---:|:---:|:---:|:---:|:---:|
-|2022-10-01||[LSH-DAY75](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/10-01.md)|[SYS-DAY75](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-01.md)||
-|2022-10-02||[LSH-DAY76](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/10-02.md)|[SYS-DAY76](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-02.md)||
-|2022-10-03||[LSH-DAY77](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/10-03.md)|[SYS-DAY77](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-02.md)||
-|2022-10-04|||[SYS-DAY78](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-04.md)||
-|2022-10-05|||[SYS-DAY79](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-04.md)||
+|2022-10-01||[LSH-DAY75](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-01.md)|[SYS-DAY75](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-01.md)||
+|2022-10-02||[LSH-DAY76](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-02.md)|[SYS-DAY76](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-02.md)||
+|2022-10-03||[LSH-DAY77](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-03.md)|[SYS-DAY77](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-02.md)||
+|2022-10-04||[LSH-DAY78](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-04.md)|[SYS-DAY78](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-04.md)||
+|2022-10-05||[LSH-DAY79](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-06.md)|[SYS-DAY79](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-04.md)||
 |2022-10-06|||||
 |2022-10-07|||||
 |2022-10-08|||||
@@ -250,7 +250,7 @@
 |Jpa 1차 캐시|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/JPA_1%EC%B0%A8_%EC%BA%90%EC%8B%9C.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/JPA-1-cbbd6d466df342fba6eae8ffc37922b4)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/JPA%201%EC%B0%A8%20%EC%BA%90%EC%8B%9C.md)|
 |오버라이딩 vs 오버로딩||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Overloading_VS_Overriding.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Overloading-VS-Overriding-7c1f8a0c13534704bdbf4b56c20fe712)||
 |Java compile 과정|||||
-|java version별 차이점|||||
+|java version별 차이점||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Version.md)|||
 |mutable vs immutable|||||
 |인터페이스와 추상클래스|||[🔵](https://chlorinated-alloy-2a8.notion.site/6e43688414fa4c649754a8011840a01b)|[🔵](https://yunyoung1819.tistory.com/198)|
 |스네이크, 파스칼, 카멜 케이스|||[🔵](https://chlorinated-alloy-2a8.notion.site/bed8d233bb554cc0813dc6ff2a1d0fae)||
@@ -311,6 +311,7 @@
 |22/09/05 - 22/09/11|[HHR-WEEK8](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/8Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK8](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week8.md)|[SYS-WEEK8](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week8.md)||
 |22/09/12 - 22/09/18|[HHR-WEEK9]|[LSH-WEEK9](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week9.md)|[SYS-WEEK9](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week9.md)||
 |22/09/19 - 22/09/25|[HHR-WEEK10]|[LSH-WEEK10](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week10.md)|[SYS-WEEK10](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week10.md)||
+|22/09/26 - 22/10/02|||||
 ---
 
 ### 💕 휴가권 (5일)
