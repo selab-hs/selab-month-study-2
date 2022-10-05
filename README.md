@@ -150,7 +150,7 @@
 |2022-10-02||[LSH-DAY76](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/10-02.md)|[SYS-DAY76](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-02.md)||
 |2022-10-03||[LSH-DAY77](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/10-03.md)|[SYS-DAY77](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-02.md)||
 |2022-10-04|||[SYS-DAY78](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-04.md)||
-|2022-10-05|||||
+|2022-10-05|||[SYS-DAY79](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-04.md)||
 |2022-10-06|||||
 |2022-10-07|||||
 |2022-10-08|||||
