@@ -227,7 +227,7 @@
 |스프링 컨테이너|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringContainer.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-Container-793ef526e8cb465da76fc1c8d6f20df3)||
 |spring servlet|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringServlet.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Servlet.md)|[🔴]()||
 |spring vs EJB|||||
-|Spring MVC|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringMVC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Spring_MVC_Process.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)||
+|Spring MVC|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringMVC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Spring_MVC_Process.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC.md)|
 |본인이 생각하는 스프링의 장점|||||
 |트랜잭션|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringTransaction.md)||🔴||
 |filter, intercepter. aop|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/Filter_Interceptor_AOp.md)||🔴|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/filter_interceptor_aop.md)|
@@ -306,13 +306,13 @@
 |22/08/01 - 22/08/07|[HHR-WEEK3](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/3Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK3](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/Week3.md)|[SYS-WEEK3](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week3.md)||
 |22/08/08 - 22/08/14|[HHR-WEEK4](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/4Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK4](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/Week4.md)|[SYS-WEEK4](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week4.md)||
 |22/08/15 - 22/08/21|[HHR-WEEK5](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/5Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK5](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/Week5.md)|[SYS-WEEK5](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week5.md)||
-|22/08/22 - 22/08/28|[HHR-WEEK6](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/6Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK6](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/Week6.md)|[SYS-WEEK6](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week6.md)|[YYUN-WEEK6](https://yunyoung1819.tistory.com/193)|
+|22/08/22 - 22/08/28|[HHR-WEEK6](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/6Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK6](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-08/Week6.md)|[SYS-WEEK6](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week6.md)|[YYUN-WEEK1](https://yunyoung1819.tistory.com/193)|
 |22/08/29 - 22/09/04|[HHR-WEEK7](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/7Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK7](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week7.md)|[SYS-WEEK7](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week7.md)||
 |22/09/05 - 22/09/11|[HHR-WEEK8](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/8Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK8](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week8.md)|[SYS-WEEK8](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week8.md)||
 |22/09/12 - 22/09/18|[HHR-WEEK9]|[LSH-WEEK9](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week9.md)|[SYS-WEEK9](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week9.md)||
 |22/09/19 - 22/09/25|[HHR-WEEK10]|[LSH-WEEK10](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week10.md)|[SYS-WEEK10](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week10.md)||
 |22/09/26 - 22/10/02|||||
-|22/10/03 - 22/10/09|||||
+|22/10/03 - 22/10/09||||[YYUN-WEEK7](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-week/2022-10/week_12.md)|
 ---
 
 ### 💕 휴가권 (5일)
