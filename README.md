@@ -151,10 +151,10 @@
 |2022-10-03|[HHR-DAY77](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_3%EC%9D%BC.md)|[LSH-DAY77](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-03.md)|[SYS-DAY77](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-02.md)|[YYUN-DAY44](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1003.md)|
 |2022-10-04|[HHR-DAY78](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_4%EC%9D%BC.md)|[LSH-DAY78](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-04.md)|[SYS-DAY78](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-04.md)|[YYUN-DAY45](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1004.md)|
 |2022-10-05|[HHR-DAY79](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_5%EC%9D%BC.md)|[LSH-DAY79](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-06.md)|[SYS-DAY79](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-04.md)|[YYUN-DAY46](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1005.md)|
-|2022-10-06|[HHR-DAY80](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_6%EC%9D%BC.md)|||[YYUN-DAY47](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1006.md)|
-|2022-10-07||||[YYUN-DAY48](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1007.md)|
-|2022-10-08||||[YYUN-DAY49](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1008.md)|
-|2022-10-09|||||
+|2022-10-06|[HHR-DAY80](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_6%EC%9D%BC.md)|[LSH-DAY80](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-06.md)||[YYUN-DAY47](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1006.md)|
+|2022-10-07||[LSH-DAY81](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-07.md)||[YYUN-DAY48](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1007.md)|
+|2022-10-08||[LSH-DAY82](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-08.md)||[YYUN-DAY49](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1008.md)|
+|2022-10-09||[LSH-DAY83](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-09.md)|||
 |2022-10-10|||||
 |2022-10-11|||||
 |2022-10-12|||||
@@ -312,6 +312,7 @@
 |22/09/12 - 22/09/18|[HHR-WEEK9]|[LSH-WEEK9](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week9.md)|[SYS-WEEK9](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week9.md)||
 |22/09/19 - 22/09/25|[HHR-WEEK10]|[LSH-WEEK10](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week10.md)|[SYS-WEEK10](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week10.md)||
 |22/09/26 - 22/10/02|||||
+|22/10/03 - 22/10/09|||||
 ---
 
 ### 💕 휴가권 (5일)
