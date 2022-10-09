@@ -191,7 +191,7 @@
 
 |         주제        |황하림|이상호|신윤섭|윤영|
 |:------------------:|:---:|:---:|:---:|:---:|
-|DB Index|||[🔵](https://chlorinated-alloy-2a8.notion.site/DB-INDEX-e0dfe76b30ac45618b7b0226e59332d2)||
+|DB Index|||[🔵](https://chlorinated-alloy-2a8.notion.site/DB-INDEX-e0dfe76b30ac45618b7b0226e59332d2)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/DB%20Index.md)|
 |Database Engine|||[🔵](https://chlorinated-alloy-2a8.notion.site/DB-Engine-Storage-Engine-128efcc1f89c48dea091f627fca9b44a)||
 |Redis|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/Redis.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/Redis.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Redis-Remote-Dictonary-Server-66494b1ab67a429f89e2d16912a4ffa6)||
 |RDB vs Nosql|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/NoSQL.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/RDB-VS-NOSQL-cc4e6a00aec749e694a22198b31e64ff)||
