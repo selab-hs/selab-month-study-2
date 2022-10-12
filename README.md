@@ -155,9 +155,9 @@
 |2022-10-07||[LSH-DAY81](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-07.md)|[SYS-DAY81](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-07.md)|[YYUN-DAY48](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1007.md)|
 |2022-10-08||[LSH-DAY82](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-08.md)|[SYS-DAY82](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-08.md)|[YYUN-DAY49](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1008.md)|
 |2022-10-09||[LSH-DAY83](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-09.md)|[SYS-DAY83](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-09.md)|[YYUN-DAY50](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1009.md)|
-|2022-10-10|||||
-|2022-10-11|||||
-|2022-10-12|||||
+|2022-10-10||[LSH-DAY84](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-10.md)|||
+|2022-10-11||[LSH-DAY85](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-11.md)|||
+|2022-10-12||[LSH-DAY86](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-12.md)|||
 |2022-10-13|||||
 |2022-10-14|||||
 |2022-10-15|||||
