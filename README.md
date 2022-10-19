@@ -162,7 +162,7 @@
 |2022-10-14||[LSH-DAY88](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-14.md)|[SYS-DAY88](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-14.md)|[YYUN-DAY55](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1014.md)|
 |2022-10-15||[LSH-DAY89](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-15.md)|[SYS-DAY89](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-15.md)|[YYUN-DAY56](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1015.md)|
 |2022-10-16||[LSH-DAY90](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-16.md)|[SYS-DAY90](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-16.md)|[YYUN-DAY57](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1016.md)|
-|2022-10-17||||[YYUN-DAY58](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1017.md)|
+|2022-10-17||LSH-||[YYUN-DAY58](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1017.md)|
 |2022-10-18||[LSH-DAY92](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-18.md)||[YYUN-DAY59](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1018.md)|
 |2022-10-19||[LSH-DAY93](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-19.md)|||
 |2022-10-20|||||
@@ -353,3 +353,4 @@
 |2022-08-23|황하림|지인약속|1|
 |2022-08-31|신윤섭|지인약속|1|
 |2022-10-14|신윤섭|휴식|0|
+|2022-10-17|이상호|지인약속|2|
