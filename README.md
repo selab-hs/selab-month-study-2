@@ -329,9 +329,9 @@
 |22/09/05 - 22/09/11|[HHR-WEEK8](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/%ED%9A%8C%EA%B3%A0%EB%A1%9D/8Week_%ED%9A%8C%EA%B3%A0%EB%A1%9D.md)|[LSH-WEEK8](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week8.md)|[SYS-WEEK8](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week8.md)||
 |22/09/12 - 22/09/18|[HHR-WEEK9]|[LSH-WEEK9](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week9.md)|[SYS-WEEK9](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week9.md)||
 |22/09/19 - 22/09/25|[HHR-WEEK10]|[LSH-WEEK10](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-09/Week10.md)|[SYS-WEEK10](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week10.md)||
-|22/09/26 - 22/10/02|||[SYS-WEEK11](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week11.md)||
-|22/10/03 - 22/10/09|||[SYS-WEEK12](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week12.md)|[YYUN-WEEK7](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-week/2022-10/week_12.md)|
-|22/10/10 - 22/10/16|||[SYS-WEEK13](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week13.md)||
+|22/09/26 - 22/10/02|[HHR-WEEK11]||[SYS-WEEK11](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week11.md)||
+|22/10/03 - 22/10/09|[HHR-WEEK12]||[SYS-WEEK12](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week12.md)|[YYUN-WEEK7](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-week/2022-10/week_12.md)|
+|22/10/10 - 22/10/16|[HHR-WEEK13]||[SYS-WEEK13](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week13.md)||
 ---
 
 ### 💕 휴가권 (5일)
@@ -354,3 +354,4 @@
 |2022-08-31|신윤섭|지인약속|1|
 |2022-10-14|신윤섭|휴식|0|
 |2022-10-17|이상호|지인약속|2|
+|2022-10-19|황하림|결혼기념일|0|
