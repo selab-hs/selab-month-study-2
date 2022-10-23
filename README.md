@@ -164,10 +164,10 @@
 |2022-10-16|[HHR-DAY90](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_16%EC%9D%BC.md)|[LSH-DAY90](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-16.md)|[SYS-DAY90(종료)](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/10/10-16.md)|[YYUN-DAY57](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1016.md)|
 |2022-10-17|[HHR-DAY91](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_17%EC%9D%BC.md)|LSH-휴가||[YYUN-DAY58](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1017.md)|
 |2022-10-18|[HHR-DAY92](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_18%EC%9D%BC.md)|[LSH-DAY92](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-18.md)||[YYUN-DAY59](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1018.md)|
-|2022-10-19|[HHR-DAY93]|[LSH-DAY93](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-19.md)|||
-|2022-10-20|[HHR-DAY94](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_20%EC%9D%BC.md)||||
-|2022-10-21|[HHR-DAY95](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_21%EC%9D%BC.md)||||
-|2022-10-22|[HHR-DAY96](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_22%EC%9D%BC.md)||||
+|2022-10-19|[HHR-DAY93]|[LSH-DAY93](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/10-19.md)||[YYUN-DAY60](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1019.md)|
+|2022-10-20|[HHR-DAY94](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_20%EC%9D%BC.md)|||[YYUN-DAY61](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1020.md)|
+|2022-10-21|[HHR-DAY95](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_21%EC%9D%BC.md)|||[YYUN-DAY62](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1021.md)|
+|2022-10-22|[HHR-DAY96](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/10%EC%9B%94/10%EC%9B%94_22%EC%9D%BC.md)|||[YYUN-DAY63](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-10/1022.md)|
 |2022-10-23|||||
 |2022-10-24|||||
 |2022-10-25|||||
@@ -259,7 +259,7 @@
 |         주제        |황하림|이상호|신윤섭|윤영|
 |:------------------:|:---:|:---:|:---:|:---:|
 |접근제한자, 생성자, SOLID|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90_%EC%83%9D%EC%84%B1%EC%9E%90_SOLID.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/AM-Contructor-SOLID.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Access-Modifier-Constructor-SOLID-b5725ffea98e4020ab4905c358f2be8a)||
-|Java Collection|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/Java_Collection.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Collection.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Collection-78ead0e6fcd0402a834f8f528c0a7d63)||
+|Java Collection|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/Java_Collection.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Collection.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Collection-78ead0e6fcd0402a834f8f528c0a7d63)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/Collection.md)|
 |Java의 Object|||||
 |java 메모리 구조|🔴|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Memory_Structure.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/d2adf9c6a5fe495482edc1f41d85ef83)|[🔵](https://yunyoung1819.tistory.com/197)|
 |checked exception vs unchecked exception|||[🔵](https://chlorinated-alloy-2a8.notion.site/checked-exception-vs-unchecked-exception-ce0dc03eab9a4d1ca9ba77d3f8897c3b)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/checkedException_VS_uncheckedException.md)|
