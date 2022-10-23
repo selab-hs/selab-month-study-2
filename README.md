@@ -268,7 +268,7 @@
 |Jpa 1차 캐시|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/JPA_1%EC%B0%A8_%EC%BA%90%EC%8B%9C.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/JPA-1-cbbd6d466df342fba6eae8ffc37922b4)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/JPA%201%EC%B0%A8%20%EC%BA%90%EC%8B%9C.md)|
 |오버라이딩 vs 오버로딩||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Overloading_VS_Overriding.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Overloading-VS-Overriding-7c1f8a0c13534704bdbf4b56c20fe712)||
 |Java compile 과정|||||
-|java version별 차이점||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Version.md)|||
+|java version별 차이점||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Version.md)||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/Java%20%EB%B2%84%EC%A0%84%EB%B3%84%20%EC%B0%A8%EC%9D%B4.md)|
 |mutable vs immutable|||||
 |인터페이스와 추상클래스|||[🔵](https://chlorinated-alloy-2a8.notion.site/6e43688414fa4c649754a8011840a01b)|[🔵](https://yunyoung1819.tistory.com/198)|
 |스네이크, 파스칼, 카멜 케이스|||[🔵](https://chlorinated-alloy-2a8.notion.site/bed8d233bb554cc0813dc6ff2a1d0fae)||
