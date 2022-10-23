@@ -249,7 +249,7 @@
 |본인이 생각하는 스프링의 장점|||||
 |트랜잭션|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringTransaction.md)||🔴||
 |filter, intercepter. aop|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/Filter_Interceptor_AOp.md)||🔴|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/filter_interceptor_aop.md)|
-|spring vs spring boot|||||
+|spring vs spring boot||||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/spring%20vs%20spring%20boot.md)|
 |Dispatcher Servlet|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/Dispatcher_Servlet.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)||
 |maven, gradle|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/MavenVSGradle.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/Maven-VS-Gradle-9380bb9f5a884c95979a4d221d76ff35)||
 |라이브러리 vs 프레임워크|||[🔵](https://www.notion.so/VS-1f91a5c0f1cf4282ac760a6bf7e64759)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%ACvs%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)|
