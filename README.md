@@ -192,24 +192,24 @@
 
 |         주제         |황하림|이상호|신윤섭|윤영|
 |:------------------:|:---:|:---:|:---:|:---:|
-|      osi 7계층       |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/OSI_7layerd.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/OSI-7layerd.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-7-6054760308f2416eb331da0004cfb352)|[🔵](https://yunyoung1819.tistory.com/40?category=270109)|
+|      osi 7계층       |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/OSI_7layerd.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/OSI-7layerd.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-7-6054760308f2416eb331da0004cfb352)|[🔵](https://yunyoung1819.tistory.com/40?category=270109)|
 |       OSI L4       |🔴|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/OSI_L4.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-L4-354fc74225914f2586c0f7d2a56337d2)||
-|        DNS         |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/DNS.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/DNS.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DNS-Domain-Name-System-d073f997744d4e8ab628fc72a15154d1)||
-|      REST API      ||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Rest_API.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/REST-API-Representational-State-Transfer-API-4895ba27d5f44e7a82dc99b5110224bc)||
+|        DNS         |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/DNS.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/DNS.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DNS-Domain-Name-System-d073f997744d4e8ab628fc72a15154d1)||
+|      REST API      |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/Rest.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Rest_API.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/REST-API-Representational-State-Transfer-API-4895ba27d5f44e7a82dc99b5110224bc)||
 |      로드밸런스         ||[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Load_Balancing.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Load-Balancer-859aae94ee574c0fa7a6706bd5f85f78)||
 | IP, TCP, UDP, HTTP ||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/IP_TCP_UDP_HTTP.md)|🔴||
 |        라우터         |||🔴||
-|   HTTP vs HTTPS    |||[🔵](https://chlorinated-alloy-2a8.notion.site/Http-vs-Https-468cbc268703441d9194d35b2984f3dc)|[🔵](https://yunyoung1819.tistory.com/4?category=270109)|
+|   HTTP vs HTTPS    |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/Http_VS_Https.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/Http-vs-Https-468cbc268703441d9194d35b2984f3dc)|[🔵](https://yunyoung1819.tistory.com/4?category=270109)|
 | Cookie vs Session  |[🔵](https://magnetic-crow-9f1.notion.site/VS-c26b8c2c071544b8a38622158a4ade99)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Cookie_VS_Session.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Cookie-VS-Session-f689c1e2316e48008eb85351419364a6)|[🔵](https://yunyoung1819.tistory.com/196)|
 |http 1,2,3|||[🔵](https://chlorinated-alloy-2a8.notion.site/Http-1-2-3-73331061be0e4d47af96aaa303fb1e65)||
-|cast (broadcast, unicast, multicast 등)|||🔴||
-|IPv4 vs IPv6|||🔴||
+|cast (broadcast, unicast, multicast 등)|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/cast.md)||🔴||
+|IPv4 vs IPv6|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/IPv4_VS_IPv6.md)||🔴||
 
 ### Database
 
 |         주제        |황하림|이상호|신윤섭|윤영|
 |:------------------:|:---:|:---:|:---:|:---:|
-|DB Index|||[🔵](https://chlorinated-alloy-2a8.notion.site/DB-INDEX-e0dfe76b30ac45618b7b0226e59332d2)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/DB%20Index.md)|
+|DB Index|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/DataBase_Index.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/DB-INDEX-e0dfe76b30ac45618b7b0226e59332d2)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/DB%20Index.md)|
 |Database Engine|||[🔵](https://chlorinated-alloy-2a8.notion.site/DB-Engine-Storage-Engine-128efcc1f89c48dea091f627fca9b44a)||
 |Redis|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/Redis.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/Redis.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Redis-Remote-Dictonary-Server-66494b1ab67a429f89e2d16912a4ffa6)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/Redis.md)|
 |RDB vs Nosql|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Database/NoSQL.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/RDB-VS-NOSQL-cc4e6a00aec749e694a22198b31e64ff)|[🔵](https://yunyoung1819.tistory.com/201)|
@@ -239,8 +239,8 @@
 
 |         주제        |황하림|이상호|신윤섭|윤영|
 |:------------------:|:---:|:---:|:---:|:---:|
-|IOC, DI, AOP|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/AOP_DI_IoC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/IOC-DI-AOP.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/IoC-DI-AOP-64c9e6298c49423680d7a0ef9e6af6ef)||
-|bean vs component|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/bean_VS_component.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Been_VS_Component.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Bean-Component-6597956a7ed5474b8e92a0170b0bb882)|[🔵](https://yunyoung1819.tistory.com/199)|
+|IOC, DI, AOP|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/AOP_DI_IoC.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/IOC-DI-AOP.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/IoC-DI-AOP-64c9e6298c49423680d7a0ef9e6af6ef)||
+|bean vs component|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/bean_VS_component.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Been_VS_Component.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Bean-Component-6597956a7ed5474b8e92a0170b0bb882)|[🔵](https://yunyoung1819.tistory.com/199)|
 |스프링의 동작 과정||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Spring_MVC_Process.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%8F%99%EC%9E%91%20%EA%B3%BC%EC%A0%95.md)|
 |스프링 컨테이너|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringContainer.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-Container-793ef526e8cb465da76fc1c8d6f20df3)||
 |spring servlet|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringServlet.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Spring/Servlet.md)|[🔴]()||
@@ -249,10 +249,10 @@
 |본인이 생각하는 스프링의 장점|||||
 |트랜잭션|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/SpringTransaction.md)||🔴||
 |filter, intercepter. aop|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/Filter_Interceptor_AOp.md)||🔴|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/filter_interceptor_aop.md)|
-|spring vs spring boot||||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/spring%20vs%20spring%20boot.md)|
+|spring vs spring boot|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/Spring_VS_spring_boot.md)|||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/spring%20vs%20spring%20boot.md)|
 |Dispatcher Servlet|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/Dispatcher_Servlet.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/Spring-MVC-2b7455084d7a4b928f54e85978c83f5c)||
 |maven, gradle|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Spring/MavenVSGradle.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/Maven-VS-Gradle-9380bb9f5a884c95979a4d221d76ff35)||
-|라이브러리 vs 프레임워크|||[🔵](https://www.notion.so/VS-1f91a5c0f1cf4282ac760a6bf7e64759)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%ACvs%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)|
+|라이브러리 vs 프레임워크|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/%ED%94%84%EB%9E%98%EC%9E%84%EC%9B%8C%ED%81%ACVS%EB%9D%BC%EC%9D%B4%EB%B2%84%EB%A6%AC.md)||[🔵](https://www.notion.so/VS-1f91a5c0f1cf4282ac760a6bf7e64759)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Spring/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%ACvs%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)|
 
 ### Java
 
@@ -271,7 +271,7 @@
 |java version별 차이점||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Version.md)||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/Java%20%EB%B2%84%EC%A0%84%EB%B3%84%20%EC%B0%A8%EC%9D%B4.md)|
 |mutable vs immutable||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Mutable_VS_Immutable.md)|||
 |인터페이스와 추상클래스|||[🔵](https://chlorinated-alloy-2a8.notion.site/6e43688414fa4c649754a8011840a01b)|[🔵](https://yunyoung1819.tistory.com/198)|
-|스네이크, 파스칼, 카멜 케이스|||[🔵](https://chlorinated-alloy-2a8.notion.site/bed8d233bb554cc0813dc6ff2a1d0fae)||
+|스네이크, 파스칼, 카멜 케이스|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/%EC%8A%A4%EB%84%A4%EC%9D%B4%ED%81%AC%2C%ED%8C%8C%EC%8A%A4%EC%B9%BC%2C%EC%B9%B4%EB%A9%9C%20%ED%91%9C%EA%B8%B0%EB%B2%95.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/bed8d233bb554cc0813dc6ff2a1d0fae)||
 
 ### Algorithm
 
@@ -288,7 +288,7 @@
 |     주제     |황하림|이상호|신윤섭|윤영|
 |:----------:|:---:|:---:|:---:|:---:|
 |싱글톤 패턴|||||
-|상태 패턴|||||
+|상태 패턴|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Design_Pattern/StatePattern.md)||||
 
 ### Etc
 
