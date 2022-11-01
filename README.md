@@ -287,7 +287,7 @@
 ## 디자인 패턴
 |     주제     |황하림|이상호|신윤섭|윤영|
 |:----------:|:---:|:---:|:---:|:---:|
-|싱글톤 패턴|||||
+|싱글톤 패턴||||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Design%20Pattern/Singleton_pattern.md)|
 |상태 패턴|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Design_Pattern/StatePattern.md)||||
 
 ### Etc
