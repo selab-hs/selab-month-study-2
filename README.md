@@ -187,8 +187,8 @@
 
 |일자|황하림|이상호|윤영|
 |:---:|:---:|:---:|:---:|
-|2022-11-01||||
-|2022-11-02||||
+|2022-11-01|[HHR-DAY106](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/11%EC%9B%94/11%EC%9B%94_1%EC%9D%BC.md)|||
+|2022-11-02|[HHR-DAY107](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/11%EC%9B%94/11%EC%9B%94_2%EC%9D%BC.md)|||
 |2022-11-03||||
 |2022-11-04||||
 |2022-11-05||||
