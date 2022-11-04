@@ -187,10 +187,10 @@
 
 |일자|황하림|이상호|윤영|
 |:---:|:---:|:---:|:---:|
-|2022-11-01|[HHR-DAY106](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/11%EC%9B%94/11%EC%9B%94_1%EC%9D%BC.md)|[LSH-DAY106](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-01.md)||
-|2022-11-02|[HHR-DAY107](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/11%EC%9B%94/11%EC%9B%94_2%EC%9D%BC.md)|[LSH-DAY107](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-02.md)||
-|2022-11-03||[LSH-DAY108](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-03.md)||
-|2022-11-04||[LSH-DAY109](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-04.md)||
+|2022-11-01|[HHR-DAY106](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/11%EC%9B%94/11%EC%9B%94_1%EC%9D%BC.md)|[LSH-DAY106](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-01.md)|[YYUN-DAY73](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1101.md)|
+|2022-11-02|[HHR-DAY107](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/11%EC%9B%94/11%EC%9B%94_2%EC%9D%BC.md)|[LSH-DAY107](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-02.md)|[YYUN-DAY74](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1102.md)|
+|2022-11-03||[LSH-DAY108](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-03.md)|[YYUN-DAY75](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1103.md)|
+|2022-11-04||[LSH-DAY109](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-04.md)|[YYUN-DAY76](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1104.md)|
 |2022-11-05||||
 |2022-11-06||||
 |2022-11-07||||
