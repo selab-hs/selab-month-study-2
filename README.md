@@ -235,7 +235,7 @@
 |       OSI L4       |🔴|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/OSI_L4.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/OSI-L4-354fc74225914f2586c0f7d2a56337d2)||
 |        DNS         |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/DNS.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/DNS.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/DNS-Domain-Name-System-d073f997744d4e8ab628fc72a15154d1)||
 |      REST API      |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/Rest.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Rest_API.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/REST-API-Representational-State-Transfer-API-4895ba27d5f44e7a82dc99b5110224bc)||
-|      로드밸런스         ||[🔴](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Load_Balancing.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Load-Balancer-859aae94ee574c0fa7a6706bd5f85f78)||
+|      로드밸런스         ||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Load_Balancing.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Load-Balancer-859aae94ee574c0fa7a6706bd5f85f78)||
 | IP, TCP, UDP, HTTP ||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/IP_TCP_UDP_HTTP.md)|🔴||
 |        라우터         |||🔴||
 |   HTTP vs HTTPS    |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/Http_VS_Https.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/Http-vs-Https-468cbc268703441d9194d35b2984f3dc)|[🔵](https://yunyoung1819.tistory.com/4?category=270109)|
