@@ -197,9 +197,9 @@
 |2022-11-08||[LSH-DAY113](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-08.md)||
 |2022-11-09||[LSH-DAY114](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-09.md)||
 |2022-11-10||[LSH-DAY115](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-10.md)||
-|2022-11-11||||
-|2022-11-12||||
-|2022-11-13||||
+|2022-11-11||[LSH-DAY116](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-11.md)||
+|2022-11-12||[LSH-DAY117](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-12.md)||
+|2022-11-13||[LSH-DAY118](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-13.md)||
 |2022-11-14||||
 |2022-11-15||||
 |2022-11-16||||
@@ -243,6 +243,7 @@
 |http 1,2,3|||[🔵](https://chlorinated-alloy-2a8.notion.site/Http-1-2-3-73331061be0e4d47af96aaa303fb1e65)||
 |cast (broadcast, unicast, multicast 등)|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/cast.md)||🔴||
 |IPv4 vs IPv6|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/IPv4_VS_IPv6.md)||🔴||
+|http status code|||||
 
 ### Database
 
@@ -257,6 +258,9 @@
 |sql injection| |[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Database/SQL_Injection.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/SQL-Injection-dbdd9d544dd34a868d5eecac0a277afe)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Database/SQL%20Injection.md)||
 |정규화|||[🔵](https://chlorinated-alloy-2a8.notion.site/DB-0e3a0e0a04f54522a8edccf337ad1bfb)||
 |db view|||[🔵](https://chlorinated-alloy-2a8.notion.site/DB-VIEW-MySql-4165c76791414d4a9950289550467688)||
+|rdbms vs nosql|||||
+|반정규화|||||
+|mysql과 oracle의 차이점|||||
 
 ### Operate System
 
@@ -273,6 +277,7 @@
 |커널|||[🔵](https://chlorinated-alloy-2a8.notion.site/Kernel-2eb00f7a00874927bc1f5cb90470c89e)||
 |Critical Section|||[🔵](https://chlorinated-alloy-2a8.notion.site/Critical-Section-cd36b17b8ef34494b72ab7d1b249150e)||
 |시스템 콜||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Operate%20System/System_Call.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/System-Call-9f130c73b0554b3ea14fe6ad5804ccd6)||
+|표준 입력(STDIN), 표준 출력(STDOUT), 표준 에러(STDERR)|||||
 
 ### Spring
 
@@ -311,6 +316,7 @@
 |mutable vs immutable||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Mutable_VS_Immutable.md)|||
 |인터페이스와 추상클래스|||[🔵](https://chlorinated-alloy-2a8.notion.site/6e43688414fa4c649754a8011840a01b)|[🔵](https://yunyoung1819.tistory.com/198)|
 |스네이크, 파스칼, 카멜 케이스|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/%EC%8A%A4%EB%84%A4%EC%9D%B4%ED%81%AC%2C%ED%8C%8C%EC%8A%A4%EC%B9%BC%2C%EC%B9%B4%EB%A9%9C%20%ED%91%9C%EA%B8%B0%EB%B2%95.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/bed8d233bb554cc0813dc6ff2a1d0fae)||
+|final|||||
 
 ### Algorithm
 
@@ -328,6 +334,7 @@
 |:----------:|:---:|:---:|:---:|:---:|
 |싱글톤 패턴||||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Design%20Pattern/Singleton_pattern.md)|
 |상태 패턴|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Design_Pattern/StatePattern.md)||||
+|프록시 패턴|||||
 
 ### Etc
 
@@ -372,6 +379,9 @@
 |22/10/03 - 22/10/09|[HHR-WEEK12]|[LSH-WEEK12](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/Week12.md)|[SYS-WEEK12](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week12.md)|[YYUN-WEEK7](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-week/2022-10/week_12.md)|
 |22/10/10 - 22/10/16|[HHR-WEEK13]|[LSH-WEEK13](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/Week13.md)|[SYS-WEEK13](https://github.com/F-UMI/TDL/blob/main/todo-list/2022/week/Week13.md)|[YYUN-WEEK8](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-week/2022-10/week_13.md)|
 |22/10/17 - 22/10/23||[LSH-WEEK14](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/Week14.md)||[YYUN-WEEK9](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-week/2022-10/week_14.md)|
+|22/10/24 - 22/10/30||[LSH-WEEK15](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-10/Week15.md)|||
+|22/10/31 - 22/11/06||[LSH-WEEK16](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/Week16.md)|||
+|22/11/07 - 22/11/13||[LSH-WEEK17](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/Week17.md)|||
 ---
 
 ### 💕 휴가권 (5일)
