@@ -240,10 +240,10 @@
 |        라우터         |||🔴||
 |   HTTP vs HTTPS    |[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/Http_VS_Https.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/Http-vs-Https-468cbc268703441d9194d35b2984f3dc)|[🔵](https://yunyoung1819.tistory.com/4?category=270109)|
 | Cookie vs Session  |[🔵](https://magnetic-crow-9f1.notion.site/VS-c26b8c2c071544b8a38622158a4ade99)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Cookie_VS_Session.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Cookie-VS-Session-f689c1e2316e48008eb85351419364a6)|[🔵](https://yunyoung1819.tistory.com/196)|
-|http 1,2,3|||[🔵](https://chlorinated-alloy-2a8.notion.site/Http-1-2-3-73331061be0e4d47af96aaa303fb1e65)||
+|http 1,2,3||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/http_1_2_3.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Http-1-2-3-73331061be0e4d47af96aaa303fb1e65)||
 |cast (broadcast, unicast, multicast 등)|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/cast.md)||🔴||
-|IPv4 vs IPv6|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/IPv4_VS_IPv6.md)||🔴||
-|http status code|||||
+|IPv4 vs IPv6|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Network/IPv4_VS_IPv6.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/IPv4_VS_IPv6.md)|🔴||
+|http status code||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Http_Status_Code.md)|||
 
 ### Database
 
@@ -306,10 +306,10 @@
 |Java Collection|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/CS/Java_Collection.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Collection.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Collection-78ead0e6fcd0402a834f8f528c0a7d63)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/Collection.md)|
 |Java의 Object|||||
 |java 메모리 구조|🔴|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Memory_Structure.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/d2adf9c6a5fe495482edc1f41d85ef83)|[🔵](https://yunyoung1819.tistory.com/197)|
-|checked exception vs unchecked exception|||[🔵](https://chlorinated-alloy-2a8.notion.site/checked-exception-vs-unchecked-exception-ce0dc03eab9a4d1ca9ba77d3f8897c3b)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/checkedException_VS_uncheckedException.md)|
+|checked exception vs unchecked exception||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/CheckedException_VS_UncheckedException.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/checked-exception-vs-unchecked-exception-ce0dc03eab9a4d1ca9ba77d3f8897c3b)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/checkedException_VS_uncheckedException.md)|
 |Jpa 더티체킹|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/JPA%20%EB%8D%94%ED%8B%B0%EC%B2%B4%ED%82%B9.md)||🔴||
 |Jpa 엔티티매니저|||||
-|Jpa 1차 캐시|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/JPA_1%EC%B0%A8_%EC%BA%90%EC%8B%9C.md)||[🔵](https://chlorinated-alloy-2a8.notion.site/JPA-1-cbbd6d466df342fba6eae8ffc37922b4)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/JPA%201%EC%B0%A8%20%EC%BA%90%EC%8B%9C.md)|
+|Jpa 1차 캐시|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Java/JPA_1%EC%B0%A8_%EC%BA%90%EC%8B%9C.md)|[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Jpa_Cache.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/JPA-1-cbbd6d466df342fba6eae8ffc37922b4)|[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/JPA%201%EC%B0%A8%20%EC%BA%90%EC%8B%9C.md)|
 |오버라이딩 vs 오버로딩||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Overloading_VS_Overriding.md)|[🔵](https://chlorinated-alloy-2a8.notion.site/Overloading-VS-Overriding-7c1f8a0c13534704bdbf4b56c20fe712)||
 |Java compile 과정|||||
 |java version별 차이점||[🔵](https://github.com/LSH-3016/TIL/blob/main/CS/Java/Java_Version.md)||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Java/Java%20%EB%B2%84%EC%A0%84%EB%B3%84%20%EC%B0%A8%EC%9D%B4.md)|
