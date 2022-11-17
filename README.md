@@ -191,19 +191,19 @@
 |2022-11-02|[HHR-DAY107](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/2022/11%EC%9B%94/11%EC%9B%94_2%EC%9D%BC.md)|[LSH-DAY107](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-02.md)|[YYUN-DAY74](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1102.md)|
 |2022-11-03||[LSH-DAY108](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-03.md)|[YYUN-DAY75](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1103.md)|
 |2022-11-04||[LSH-DAY109](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-04.md)|[YYUN-DAY76](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1104.md)|
-|2022-11-05||[LSH-DAY110](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-05.md)||
-|2022-11-06||[LSH-DAY111](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-06.md)||
-|2022-11-07||[LSH-DAY112](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-07.md)||
-|2022-11-08||[LSH-DAY113](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-08.md)||
-|2022-11-09||[LSH-DAY114](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-09.md)||
-|2022-11-10||[LSH-DAY115](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-10.md)||
-|2022-11-11||[LSH-DAY116](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-11.md)||
-|2022-11-12||[LSH-DAY117](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-12.md)||
-|2022-11-13||[LSH-DAY118](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-13.md)||
-|2022-11-14||||
-|2022-11-15||||
-|2022-11-16||||
-|2022-11-17||||
+|2022-11-05||[LSH-DAY110](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-05.md)|[YYUN-DAY77](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1105.md)|
+|2022-11-06||[LSH-DAY111](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-06.md)|[YYUN-DAY78](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1106.md)|
+|2022-11-07||[LSH-DAY112](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-07.md)|[YYUN-DAY79](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1107.md)|
+|2022-11-08||[LSH-DAY113](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-08.md)|[YYUN-DAY80](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1108.md)|
+|2022-11-09||[LSH-DAY114](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-09.md)|[YYUN-DAY81](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1109.md)|
+|2022-11-10||[LSH-DAY115](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-10.md)|[YYUN-DAY82](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1110.md)|
+|2022-11-11||[LSH-DAY116](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-11.md)|[YYUN-DAY83](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1111.md)|
+|2022-11-12||[LSH-DAY117](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-12.md)|[YYUN-DAY84](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1112.md)|
+|2022-11-13||[LSH-DAY118](https://github.com/LSH-3016/TIL/blob/main/todo-list/2022-11/11-13.md)|[YYUN-DAY85](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1113.md)|
+|2022-11-14|||[YYUN-DAY86](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1114.md)|
+|2022-11-15|||[YYUN-DAY87](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1115.md)|
+|2022-11-16|||[YYUN-DAY88](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1116.md)|
+|2022-11-17|||[YYUN-DAY89](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/todo-list/2022-11/1117.md)|
 |2022-11-18||||
 |2022-11-19||||
 |2022-11-20||||
@@ -333,7 +333,7 @@
 |     주제     |황하림|이상호|신윤섭|윤영|
 |:----------:|:---:|:---:|:---:|:---:|
 |싱글톤 패턴||||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Design%20Pattern/Singleton_pattern.md)|
-|상태 패턴|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Design_Pattern/StatePattern.md)||||
+|상태 패턴|[🔵](https://github.com/HwangHarim/TDL/blob/main/.idea/ToDayLearn/ToDayTopic/Design_Pattern/StatePattern.md)|||[🔵](https://github.com/yunyoung1819/TIL/blob/master/Selab-Study/topic/Design%20Pattern/State_pattern.md)|
 |프록시 패턴|||||
 
 ### Etc
